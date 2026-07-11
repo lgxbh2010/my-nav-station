@@ -1,1094 +1,1084 @@
 ---
 
-- taxonomy: 常用推荐
-  icon: fa-star
-  links: 
-    - title: YouTube
-      logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
-    - title: 全宇宙最便宜的vps
-      logo: images/logos/racknerd.png
-      url: https://my.racknerd.com/aff.php?aff=13491
-      description: 一年仅10.99每月3T流量17G固态硬盘
-    - title: Switch eSIM卡
-      logo: images/logos/Switch.jpg
-      url: https://s.tb.cn/c.0wEMb6
-      description: 让国行手机也有eSIM功能
-    - title: 环球巴士
-      qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
-    - title: "万事达虚拟银行卡"
-      url: "https://www.bybit.com/invite?ref=QAM3MOJ"
-      description: "国内usdt消费,支付宝、微信充值，海外消费。"
-    - title: visa虚拟卡
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
-      description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
-    - title: Telegram
-      logo: 
-      url: https://t.me/kjgxZY/
-      description: 科技共享资源频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
-      description: 沟通交流，资源分享
-    - title: 接码平台
-      logo:  
-      url: https://hero-sms.com/?ref=489021/
-      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
-    - title: Base64编码解码
-      url: https://99688988.xyz/base64-string-converter/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: 文叔叔
-      logo: 
-      url: https://www.wenshushu.cn/
-      description: 传临时文件,大文件、永不限速
-    - title: 网络剪贴板
-      logo: 
-      url: https://clipboard.168668520.xyz/
-      description: 提供数据暂存和传送服务
-    - title: UUID生成
-      url: https://99688988.xyz/uuid-generator/
-      description: UUID在线生成
-    - title: 轻抖
-      qrcode: 
-      logo: images/logos/qingdou.jpg
-      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
-      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
-    - title: 流量变现
-      logo:  images/logos/rengtuiban.png
-      url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
-      description: 一线的APP推广项目分发和流量变现平台
+- taxonomy: 淘宝
+  icon: fa-shopping-cart
+  links:
+    - title: "首页-Hifi发烧运放＜神U店：收藏CPU收藏＞-淘宝网"
+      url: http://shop34389883.taobao.com/
+      description: "首页-Hifi发烧运放＜神U店：收藏CPU收藏＞-淘宝网"
+    - title: "首页-天宇发烧-淘宝网"
+      url: http://shop33811424.taobao.com/
+      description: "首页-天宇发烧-淘宝网"
+    - title: "信宜科技-家用电器_hifi音响_耳机 - 淘宝网"
+      url: http://store.taobao.com/shop/view_shop-a74301f82a2a87f64b6f7713b2e8f854.htm?nekot=aGlmaXBpYW5n1244126009492
+      description: "信宜科技-家用电器_hifi音响_耳机 - 淘宝网"
+    - title: "nelson_choi WORK SHOP-家用电器_hifi音响_耳机 - 淘宝网"
+      url: http://store.taobao.com/shop/view_shop-8c02b655cb386d24a220fbcd222695b5.htm
+      description: "nelson_choi WORK SHOP-家用电器_hifi音响_耳机 - 淘宝网"
+    - title: "北京明天音响-家用电器_hifi音响_耳机 - 淘宝网"
+      url: http://store.taobao.com/shop/view_shop.htm?asker=wangwang&shop_nick=%B1%B1%BE%A9%C3%F7%CC%EC
+      description: "北京明天音响-家用电器_hifi音响_耳机 - 淘宝网"
+    - title: "首页-【贵州商盟】【HIFI二手店】都匀店- 淘宝网"
+      url: http://shop35673602.taobao.com/
+      description: "首页-【贵州商盟】【HIFI二手店】都匀店- 淘宝网"
+    - title: "【童装】-棉先生 青年时尚男女装品牌 7年老店 棉庄Mr.Mian- 淘宝网"
+      url: http://mrmian.taobao.com/?search=y&scid=92802757&scname=ob7Nr9ewob8%3D&checkedRange=true&queryType=cat
+      description: "【童装】-棉先生 青年时尚男女装品牌 7年老店 棉庄Mr.Mian- 淘宝网"
+    - title: "首页-牦牛角棉袜黑白水牛角梳羊角梳男袜女袜子童袜批发程丁峰中药脚气- 淘宝网"
+      url: http://taipianyi.taobao.com/
+      description: "首页-牦牛角棉袜黑白水牛角梳羊角梳男袜女袜子童袜批发程丁峰中药脚气- 淘宝网"
+    - title: "首页-深圳-中国电信手机-配件- 淘宝网"
+      url: http://shop62373400.taobao.com/
+      description: "首页-深圳-中国电信手机-配件- 淘宝网"
+    - title: "首页-腾飞电子-- 淘宝网"
+      url: http://tengfeihifidiy.taobao.com/?spm=11027c7a.3-1Tmlt.2-NLvTS
+      description: "首页-腾飞电子-- 淘宝网"
 
+- taxonomy: 音响技术
+  icon: fa-music
+  links:
+    - title: "ipod磨机（imod）扫盲帖（欢迎提问） 耳机大家坛 全球最大中文耳机论坛"
+      url: http://www.erji.net/read.php?tid=426922
+      description: "ipod磨机（imod）扫盲帖（欢迎提问） 耳机大家坛 全球最大中文耳机论坛"
+    - title: "简单说说旅行者、xin sm3、以及aurora下的er4s 耳机大家坛 全球最大中文耳机论坛"
+      url: http://www.erji.net/read.php?tid=900823
+      description: "简单说说旅行者、xin sm3、以及aurora下的er4s 耳机大家坛 全球最大中文耳机论坛"
+    - title: "中国音响DIY-Hifidiy.net"
+      url: http://www.hifidiy.net/
+      description: "中国音响DIY-Hifidiy.net"
+    - title: "音响DIY hifidiy 论坛 - Powered by Discuz!"
+      url: http://bbs.hifidiy.net/forum.php
+      description: "音响DIY hifidiy 论坛 - Powered by Discuz!"
 
-- taxonomy: 社区咨询
-  icon: fa-regular fa-newspaper
-  links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
+- taxonomy: 手机、平板应用
+  icon: fa-mobile
+  links:
+    - title: "机锋网 GFan.com - 安致(安卓)Android智能手机中文站"
+      url: http://www.gfan.com/
+      description: "机锋网 GFan.com - 安致(安卓)Android智能手机中文站"
+    - title: "支付宝手机客户端下载 - 手机支付宝 - 开启_无限_生活"
+      url: http://mobile.alipay.com/main/download.htm?action=mobileClient
+      description: "支付宝手机客户端下载 - 手机支付宝 - 开启_无限_生活"
+    - title: "腾讯企业邮箱，伴您共同成长"
+      url: http://exmail.qq.com/login
+      description: "腾讯企业邮箱，伴您共同成长"
+    - title: "Galaxy Note 公测公告 - 机型讨论 - MIUI官方论坛 - 发烧友必刷的Android ROM"
+      url: http://www.miui.com/thread-901083-1-1.html
+      description: "Galaxy Note 公测公告 - 机型讨论 - MIUI官方论坛 - 发烧友必刷的Android ROM"
 
-- taxonomy: 灵感采集
-  icon: fa-regular fa-lightbulb
-  list: 
-    - term: 发现产品
-      links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
-      
-    - term: 界面灵感
-      links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-      
-    - term: 网页灵感
-      links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
-          logo: images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
-        - title: The FWA
-          logo: images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
-        - title: Ecommercefolio
-          logo: images/logos/Ecommercefolio.png
-          url: http://www.ecommercefolio.com/
-          description: Only the Best Ecommerce Design Inspiration
-        - title: Lapa
-          logo: images/logos/Lapa.png
-          url: http://www.lapa.ninja/
-          description: The best landing page design inspiration from around the web.
-        - title: Reeoo
-          logo: images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
-          logo: images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
-        - title: Best Websites Gallery
-          logo: images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
-        - title: Pages
-          logo: images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
-          logo: images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
-          logo: images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
-        - title: WebInspiration
-          logo: images/logos/WebInspiration.png
-          url: http://web.uedna.com/
-          description: 网页设计欣赏,全球顶级网页设计
-        - title: navnav
-          logo: images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-        - title: Really Good UX
-          logo: images/logos/ReallyGoodUX.png
-          url: https://www.reallygoodux.io/
-          description: A library of screenshots and examples of really good UX. Brought to you by
+- taxonomy: 电脑相关
+  icon: fa-laptop
+  links:
+    - title: "比特网"
+      url: http://www.abcbit.com/
+      description: "比特网"
+    - title: "实况足球2011下载专区_游民星空 http___www.gamersky.com"
+      url: http://www.gamersky.com/Soft/Special/pes2011/
+      description: "实况足球2011下载专区_游民星空 http___www.gamersky.com"
+    - title: "绿色联盟 - 中国绿色软件下载联盟站 → 偶要下载"
+      url: http://www.ouyaoxiazai.com/
+      description: "绿色联盟 - 中国绿色软件下载联盟站 → 偶要下载"
+    - title: "吾爱破解 破解软件加密解密逆向工程软件安全病毒分析精品软件破解补丁注册机序列号QQ下载CrackPatchKeySN - Powered by Discuz!"
+      url: http://www.52pojie.cn/index.php
+      description: "吾爱破解 破解软件加密解密逆向工程软件安全病毒分析精品软件破解补丁注册机序列号QQ下载CrackPatchKeySN - Powered by Discuz!"
+    - title: "系统映像精简版XP Embedded最新下载zol软件下载"
+      url: http://download.zol.com.cn/detail/9/88006.shtml
+      description: "系统映像精简版XP Embedded最新下载zol软件下载"
+    - title: "轻狂志 - 少轻狂分享优质软件资源！"
+      url: https://www.flighty.cn/
+      description: "轻狂志 - 少轻狂分享优质软件资源！"
+    - title: "地址发布页，收藏我回家不迷路！"
+      url: https://upyunso3.com/
+      description: "地址发布页，收藏我回家不迷路！"
 
-      
-- taxonomy: 素材资源
-  icon: fa-thumbs-up
-  list: 
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: images/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: iconmonstr
-          logo: images/logos/iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
-      
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
-        - title: Instant Logo Search
-          logo: images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly
+- taxonomy: 摄影和设计专用
+  icon: fa-camera
+  links:
+    - title: "「设计盒子」- Freedom vision"
+      url: http://designbox.cn/
+      description: "「设计盒子」- Freedom vision"
+    - title: "Photoshop专区暗房 Web设计 鼠绘 滤镜 视频 文字特效 源文件—太平洋电脑网"
+      url: http://www.pconline.com.cn/pcedu/sj/pm/photoshop/
+      description: "Photoshop专区暗房 Web设计 鼠绘 滤镜 视频 文字特效 源文件—太平洋电脑网"
+    - title: "迪派影像 - 专业 敬业 时尚 创新"
+      url: http://www.dpnet.com.cn/
+      description: "迪派影像 - 专业 敬业 时尚 创新"
+    - title: "鉴于网友的强烈要求，我还是把教程发在蜂鸟上！ - 蜂鸟论坛"
+      url: http://bbs.fengniao.com/forum/showthread.php?t=183954
+      description: "鉴于网友的强烈要求，我还是把教程发在蜂鸟上！ - 蜂鸟论坛"
+    - title: "蓝色理想 - 网站设计与开发人员之家"
+      url: http://www.blueidea.com/
+      description: "蓝色理想 - 网站设计与开发人员之家"
+    - title: "平面设计论坛 - ABBS 论坛"
+      url: http://www.abbs.com.cn/bbs/post/page?bid=54
+      description: "平面设计论坛 - ABBS 论坛"
+    - title: "自动抠像专业版2"
+      url: http://www.cncrk.com/downinfo/4613.html
+      description: "自动抠像专业版2"
+    - title: "昵图网会员管理后台 nipic.com"
+      url: http://user.nipic.com/index.asp
+      description: "昵图网会员管理后台 nipic.com"
+    - title: "素材 图片下载 网页模板 图标下载 酷站欣赏 QQ表情 矢量素材 音效下载 桌面壁纸 网页素材 素材下载-中国站长站"
+      url: http://sc.chinaz.com/
+      description: "素材 图片下载 网页模板 图标下载 酷站欣赏 QQ表情 矢量素材 音效下载 桌面壁纸 网页素材 素材下载-中国站长站"
+    - title: "昵图网_原创素材共享平台www.nipic.com"
+      url: http://www.nipic.com/index.html
+      description: "昵图网_原创素材共享平台www.nipic.com"
+    - title: "秘塔写作猫"
+      url: https://xiezuocat.com/#/upgrade
+      description: "秘塔写作猫"
 
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: images/logos/365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: Medialoot
-          logo: images/logos/Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot
-        - title: 千图网
-          logo: images/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: images/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
-        - title: 我图网
-          logo: images/logos/wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-        - title: 90设计
-          logo: images/logos/90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-        - title: 昵图网
-          logo: images/logos/nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台
-        - title: 懒人图库
-          logo: images/logos/lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载
-        - title: 素材搜索
-          logo: images/logos/sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合
-        - title: PS饭团网
-          logo: images/logos/psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: images/logos/sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台
-      
-    - term: UI资源
-      links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
-        - title: 云瑞
-          logo: images/logos/yrucd.png
-          url: https://www.yrucd.com/
-          description: 优秀设计资源的分享网站
-        - title: Designmodo
-          logo: images/logos/Designmodo.png
-          url: https://designmodo.com/
-          description: Web Design Blog and Shop
-        - title: 稀土区
-          logo: images/logos/xituqu.png
-          url: https://xituqu.com/
-          description: 优质设计开发资源分享
-        - title: ui8
-          logo: images/logos/ui8.png
-          url: https://ui8.net/
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-        - title: uplabs
-          logo: images/logos/uplabs.png
-          url: https://www.uplabs.com/
-          description: Daily resources for product designers & developers
-        - title: UIkit.me
-          logo: images/logos/uikitme.png
-          url: http://www.uikit.me/
-          description: 最便捷新鲜的uikit资源下载网站
-        - title: Fribbble
-          logo: images/logos/Fribbble.png
-          url: http://www.fribbble.com/
-          description: Free PSD files and other free design resources by Dribbblers.
-        - title: PrincipleRepo
-          logo: images/logos/PrincipleRepo.png
-          url: http://principlerepo.com/
-          description: Free, High Quality Principle Resources
-      
-    - term: Sketch资源
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
-        - title: Sketch Measure
-          url: http://utom.design/measure/
-          logo: images/logos/SketchMeasure.png
-          description: Friendly user interface offers you a more intuitive way of making marks.
-        - title: Sketch App Sources
-          url: https://www.sketchappsources.com/
-          logo: images/logos/sketchappsources.png
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-        - title: Sketch.im
-          url: http://www.sketch.im/
-          logo: images/logos/sketchIm.png
-          description: Sketch 相关资源汇聚
-        - title: Sketch Hunt
-          url: http://sketchhunt.com/
-          logo: images/logos/sketchhunt.png
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
-        - title: Sketch中文网
-          url: http://www.sketchcn.com/
-          logo: images/logos/sketchcn.png
-          description: 分享最新的Sketch中文手册
-        - title: Awesome Sketch Plugins
-          url: https://awesome-sket.ch/
-          logo: images/logos/AwesomeSketchPlugins.png
-          description: A collection of really useful Sketch plugins.
-        - title: Sketchcasts
-          url: https://www.sketchcasts.net/
-          logo: images/logos/sketchcasts.png
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-      
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography
-        - title: Typekit
-          url: https://typekit.com/
-          logo: images/logos/typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: images/logos/Fondertype.png
-          description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: images/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: images/logos/sicangziti.png
-          description: 优质字体免费下载站
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
-          description: FREE fonts for graphic designers
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: images/logos/losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: images/logos/fontex.png
-          description: Free Fonts to Download + Premium Typefaces
-        - title: FontM
-          url: http://fontm.com/
-          logo: images/logos/FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: images/logos/MyFonts.png
-          description: Fonts for Print, Products & Screens
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: images/logos/dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: images/logos/OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: images/logos/abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts)
-      
-    - term: Mockup
-      links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-        - title: Dunnnk
-          url: http://dunnnk.com/
-          logo: images/logos/Dunnnk.png
-          description:  Generate Product Mockups For Free
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
-        - title: Threed
-          url: http://threed.io/
-          logo: images/logos/threed.png
-          description: Generate 3D Mockups right in your Browser
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
-        - title: Lstore
-          url: https://free.lstore.graphics/
-          logo: images/logos/lstore.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: pixeden
-          url: https://www.pixeden.com/
-          logo: images/logos/pixeden.png
-          description: free web resources and graphic design templates.
-        - title: For Graphic TM
-          url: http://forgraphictm.com/
-          logo: images/logos/forgraphictm.png
-          description: High Quality PSD Mockups for Graphic Designers.
-      
-    - term: 摄影图库
-      links:
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: images/logos/unsplash.png
-          description: Beautiful, free photos.
-        - title: visualhunt
-          url: https://visualhunt.com/
-          logo: images/logos/visualhunt.png
-          description: 100% Free High Quality Photos
-        - title: librestock
-          url: https://librestock.com/
-          logo: images/logos/librestock.png
-          description: 65,084 high quality do-what-ever-you-want stock photos
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: images/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
-        - title: SplitShire
-          url: https://www.splitshire.com/
-          logo: images/logos/SplitShire.png
-          description: Free Stock Photos and Videos for commercial use.
-        - title: StockSnap
-          url: https://stocksnap.io/
-          logo: images/logos/StockSnap.png
-          description: Beautiful free stock photos
-        - title: albumarium
-          url: http://albumarium.com/
-          logo: images/logos/albumarium.png
-          description: The best place to find & share beautiful images
-        - title: myphotopack
-          url: https://myphotopack.com/
-          logo: images/logos/myphotopack.png
-          description: A free photo pack just for you. Every month.
-        - title: Notaselfie
-          url: http://notaselfie.com/
-          logo: images/logos/notaselfie.png
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-        - title: papers
-          url: http://papers.co/
-          logo: images/logos/papers.png
-          description: Wallpapers Every Hour!Hand collected :)
-        - title: stokpic
-          url: http://stokpic.com/
-          logo: images/logos/stokpic.png
-          description: Free Stock Photos For Commercial Use
-        - title: 55mm
-          url: https://55mm.co/visuals
-          logo: images/logos/55mm.png
-          description: Use our FREE photos to tell your story! 
-        - title: thestocks
-          url: http://thestocks.im/
-          logo: images/logos/thestocks.png
-          description: Use our FREE photos to tell your story! 
-        - title: freenaturestock
-          url: http://freenaturestock.com/
-          logo: images/logos/freenaturestock.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: negativespace
-          url: https://negativespace.co/
-          logo: images/logos/negativespace.png
-          description: Beautiful, High-Resolution Free Stock Photos
-        - title: gratisography
-          url: https://gratisography.com/
-          logo: images/logos/gratisography.png
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions. 
-        - title: imcreator
-          url: http://imcreator.com/free
-          logo: images/logos/imcreator.png
-          description: A curated collection of free web design resources, all for commercial use.
-        - title: lifeofpix
-          url: http://www.lifeofpix.com/
-          logo: images/logos/lifeofpix.png
-          description: Free high resolution photography
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: Free Stock Photos for Creative Professionals
-        - title: mmtstock
-          url: https://mmtstock.com/
-          logo: images/logos/mmtstock.png
-          description: Free photos for commercial use
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: a place to find, show and share public domain photos
-        - title: magdeleine
-          url: https://magdeleine.co/browse/
-          logo: images/logos/magdeleine.png
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-        - title: jeshoots
-          url: http://jeshoots.com/
-          logo: images/logos/jeshoots.png
-          description: New Free Photos & Mockups in to your Inbox!
-        - title: hdwallpapers
-          url: https://www.hdwallpapers.net
-          logo: images/logos/hdwallpapers.png
-          description: High Definition Wallpapers & Desktop Backgrounds
-        - title: publicdomainarchive
-          url: http://publicdomainarchive.com/
-          logo: images/logos/publicdomainarchive.png
-          description: New 100% Free Stock Photos. Every. Single. Week.
-      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: images/logos/pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: images/logos/pptmind.png
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: images/logos/tretars.png
-          description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: images/logos/500d.png
-          description: 中国领先的PPT模板共享平台
-      
+- taxonomy: 网上看电影
+  icon: fa-film
+  links:
+    - title: "娱网高清-1080P蓝光高清电影,最新免费大片电影下载"
+      url: http://www.hd1080.net/
+      description: "娱网高清-1080P蓝光高清电影,最新免费大片电影下载"
+    - title: "YouTube"
+      url: https://www.youtube.com/
+      description: "YouTube"
+    - title: "Watch Free Movies and TV Shows Online | Tubi"
+      url: https://tubitv.com/
+      description: "Watch Free Movies and TV Shows Online | Tubi"
 
-- taxonomy: 常用工具
-  icon: fa-palette
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: images/logos/photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: images/logos/AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: images/logos/Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: images/logos/INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: images/logos/cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: images/logos/3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: images/logos/blender.png
-          description: Blender is the free and open source 3D creation suite.
-      
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: images/logos/ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: images/logos/invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: images/logos/marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: images/logos/MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: images/logos/figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 交互动效
-      links:
-        - title: Adobe After Effects CC
-          url: https://www.adobe.com/cn/products/aftereffects/
-          logo: images/logos/AdobeAfterEffectsCC.png
-          description: 电影般的视觉效果和动态图形。
-        - title: principle
-          url: http://principleformac.com/
-          logo: images/logos/principle.png
-          description: Animate Your Ideas, Design Better Apps
-        - title: flinto
-          url: https://www.flinto.com/
-          logo: images/logos/flinto.png
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-        - title: framer
-          url: https://framer.com/
-          logo: images/logos/framer.png
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-        - title: ProtoPie
-          url: http://www.protopie.cn/
-          logo: images/logos/protopie.png
-          description: 高保真交互原型设计
+- taxonomy: 音乐
+  icon: fa-headphones
+  links:
+    - title: "音乐地带-影音帝国区- 华声论坛"
+      url: http://bbs.voc.com.cn/forum-77-1.html
+      description: "音乐地带-影音帝国区- 华声论坛"
+    - title: "自由听吧-第一时间与大家分享最新的中文、外文音乐唱片，分享最新国内外高清大片，交流生活中的经验。 - Powered by Discuz!"
+      url: http://www.zyt8.com/forum.php
+      description: "自由听吧-第一时间与大家分享最新的中文、外文音乐唱片，分享最新国内外高清大片，交流生活中的经验。 - Powered by Discuz!"
+    - title: "怀集音乐之声网络电台在线收听 - 问候时光网"
+      url: https://www.hitime5.com/radio/guangdong/huaijiyinyue.html
+      description: "怀集音乐之声网络电台在线收听 - 问候时光网"
 
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: images/logos/uigradients.png
-          description: Beautiful colored gradients
-        - title: gradients
-          url: http://gradients.io/
-          logo: images/logos/gradients.png
-          description: Curated gradients for designers and developers
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: images/logos/Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: images/logos/webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: images/logos/grabient.png
-          description: 2017 Grabient by unfold
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: images/logos/thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: images/logos/flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme
-        - title: coolors
-          url: https://coolors.co/
-          logo: images/logos/coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: images/logos/colorhunt.png
-          description: Beautiful Color Palettes
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: images/logos/AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: images/logos/flatuicolorpicker.png
-          description: Best Flat Colors For UI Design
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: images/logos/trianglify.png
-          description: Trianglify Generator
-        - title: klart
-          url: https://klart.co/colors/
-          logo: images/logos/klart.png
-          description: Beautiful colors and designs to your inbox every week
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: images/logos/vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+- taxonomy: 羽毛球
+  icon: fa-heart
+  links:
+    - title: "羽线测评-羽网超市-羽毛球用品厂家直销-批发零售-淘宝网"
+      url: http://shop59738410.taobao.com/view_page-1010605.htm
+      description: "羽线测评-羽网超市-羽毛球用品厂家直销-批发零售-淘宝网"
 
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-        - title: ezgif
-          url: https://ezgif.com
-          logo: images/logos/ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: images/logos/Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: images/logos/screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: images/logos/svgomg.png
-          description: SVG在线压缩平台
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: images/logos/gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-        
-    - term: Chrome插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: images/logos/wappalyzer.png
-          description: Identify technology on websites
-        - title: Panda
-          url: http://usepanda.com/
-          logo: images/logos/usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: images/logos/sizzy.png
-          description: A tool for developing responsive websites crazy-fast
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: images/logos/csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: images/logos/insight.png
-          description: IDE-like code search and navigation, on the cloud
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: images/logos/mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
+- taxonomy: 技术学习
+  icon: fa-graduation-cap
+  links:
+    - title: "恩山无线论坛 - Powered by Discuz!"
+      url: https://www.right.com.cn/forum/forum.php
+      description: "恩山无线论坛 - Powered by Discuz!"
+    - title: "【PR教程】剪辑前的四个步骤，减少pr卡顿，优化界面_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV1QZ4y1M7Mv?spm_id_from=333.880.my_history.page.click
+      description: "【PR教程】剪辑前的四个步骤，减少pr卡顿，优化界面_哔哩哔哩_bilibili"
+    - title: "每日一学网 - 发现更精彩的电脑世界"
+      url: http://www.meiriyixue.cn/
+      description: "每日一学网 - 发现更精彩的电脑世界"
+    - title: "ps教程：photoshop图片渐变消失的两种办法 - 鱼摆摆教程"
+      url: https://www.yubaibai.com.cn/article/2389.html
+      description: "ps教程：photoshop图片渐变消失的两种办法 - 鱼摆摆教程"
+    - title: "AdGuardHome – DNS服务器的安装以及设置。去广告、开源、防污染的DNS服务器教程，让你的网页秒开。 – V2RaySSR综合网"
+      url: https://www.v2rayssr.com/adguardhome.html
+      description: "AdGuardHome – DNS服务器的安装以及设置。去广告、开源、防污染的DNS服务器教程，让你的网页秒开。 – V2RaySSR综合网"
+    - title: "PVE虚拟机直通SATA硬盘，安装、洗白黑群晖，跑满你的千兆局域网（Proxmox VE 黑群晖） – V2RaySSR综合网"
+      url: https://v2rayssr.com/pve-nas.html
+      description: "PVE虚拟机直通SATA硬盘，安装、洗白黑群晖，跑满你的千兆局域网（Proxmox VE 黑群晖） – V2RaySSR综合网"
+    - title: "小白玩NAS 篇十二：PVE虚拟机安装黑群晖DSM系统并设置硬盘直通【多图预警，保姆教程】_NAS存储_什么值得买"
+      url: https://post.smzdm.com/p/a2036n3n/
+      description: "小白玩NAS 篇十二：PVE虚拟机安装黑群晖DSM系统并设置硬盘直通【多图预警，保姆教程】_NAS存储_什么值得买"
+    - title: "考试宝 - 可以导入题库的在线考试刷题学习平台"
+      url: https://www.kaoshibao.com/
+      description: "考试宝 - 可以导入题库的在线考试刷题学习平台"
+    - title: "永久免费获取25TB Office 365存储空间，详细教程-不逍遥"
+      url: https://www.buxiaoyao.com/free-office365/
+      description: "永久免费获取25TB Office 365存储空间，详细教程-不逍遥"
+    - title: "点心云x86虚拟机通用安装法 - 哔哩哔哩"
+      url: https://www.bilibili.com/read/cv16921429/
+      description: "点心云x86虚拟机通用安装法 - 哔哩哔哩"
+    - title: "通过ikuai访问光猫管理界面_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV1se4y1m79k/?vd_source=a61e4a22d1dde183ba64d1c2c4e1b06f
+      description: "通过ikuai访问光猫管理界面_哔哩哔哩_bilibili"
+    - title: "无聊的折腾日记 篇二：兮克全家桶日记之SKS7300-8GPY4XGS爱上seekerstor网卡汇聚拨号以及猫棒测试环境和配置避坑说明！！_交换机_什么值得买"
+      url: https://post.smzdm.com/p/agqxd0o7/
+      description: "无聊的折腾日记 篇二：兮克全家桶日记之SKS7300-8GPY4XGS爱上seekerstor网卡汇聚拨号以及猫棒测试环境和配置避坑说明！！_交换机_什么值得买"
+    - title: "『软路由踩坑指南』 篇三：ESXi 8.0虚拟机安装iKuai主路由及保姆级配置_路由器_什么值得买"
+      url: https://post.smzdm.com/p/a5op28x7/
+      description: "『软路由踩坑指南』 篇三：ESXi 8.0虚拟机安装iKuai主路由及保姆级配置_路由器_什么值得买"
+    - title: "HyperV安装爱快加点心云/网心云保姆级教程_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV1vN4y1X7tx/?vd_source=a61e4a22d1dde183ba64d1c2c4e1b06f
+      description: "HyperV安装爱快加点心云/网心云保姆级教程_哔哩哔哩_bilibili"
+    - title: "【改造】双SFP+31000兆软路由DIY方案(双猫棒接入,OpenWrt旁路由上网,Home Assistant)_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV1xy4y1N7DB/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=a61e4a22d1dde183ba64d1c2c4e1b06f
+      description: "【改造】双SFP+31000兆软路由DIY方案(双猫棒接入,OpenWrt旁路由上网,Home Assistant)_哔哩哔哩_bilibili"
+    - title: "ipad pro能不能降级 iPad Pro降级方法 - 酷米网"
+      url: https://www.kmw.com/news/6946268.html
+      description: "ipad pro能不能降级 iPad Pro降级方法 - 酷米网"
+    - title: "OPENCLASH 内核更新失败解决方法-软路由,x86系统,openwrt(x86),Router OS 等-恩山无线论坛"
+      url: https://www.right.com.cn/FORUM/thread-8272767-1-1.html
+      description: "OPENCLASH 内核更新失败解决方法-软路由,x86系统,openwrt(x86),Router OS 等-恩山无线论坛"
+    - title: "【2024年】保姆级openclash教程，避免在openclash在使用中可能遇到的各种问题 - YouTube"
+      url: https://www.youtube.com/watch?v=bVPp9HaxDLU
+      description: "【2024年】保姆级openclash教程，避免在openclash在使用中可能遇到的各种问题 - YouTube"
+    - title: "Win11两台电脑怎么共享文件 Win11两台电脑共享文件方法【详解】-太平洋IT百科手机版"
+      url: https://g.pconline.com.cn/x/1657/16570924.html
+      description: "Win11两台电脑怎么共享文件 Win11两台电脑共享文件方法【详解】-太平洋IT百科手机版"
+    - title: "韦尔塞尔"
+      url: https://vercel.com/lgxbh2010s-projects
+      description: "韦尔塞尔"
+    - title: "半小时精通 OpenClash 完美配置，无DNS污染，无DNS泄露，自动选择、负载均衡，丝滑切换节点，永不断网，全网最强配置模版免费送！完美网络9 - YouTube"
+      url: https://www.youtube.com/watch?v=S2l_0g4EOHk
+      description: "半小时精通 OpenClash 完美配置，无DNS污染，无DNS泄露，自动选择、负载均衡，丝滑切换节点，永不断网，全网最强配置模版免费送！完美网络9 - You"
+    - title: "pve开启硬件直通命令 - 尚书李部 - 博客园"
+      url: https://www.cnblogs.com/zbvod/p/18147848
+      description: "pve开启硬件直通命令 - 尚书李部 - 博客园"
+    - title: "畅网微控 - 迷你主机&amp;网安工控&amp;NAS存储&amp;工控机&amp;嵌入式主板整机制造厂家"
+      url: https://www.changwang.com/
+      description: "畅网微控 - 迷你主机&amp;网安工控&amp;NAS存储&amp;工控机&amp;嵌入式主板整机制造厂家"
+    - title: "国产飞牛NAS系统居然能在ESXI下实现转码！你敢信？_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV13dHHehEm1/?spm_id_from=333.337.search-card.all.click&vd_source=a61e4a22d1dde183ba64d1c2c4e1b06f
+      description: "国产飞牛NAS系统居然能在ESXI下实现转码！你敢信？_哔哩哔哩_bilibili"
+    - title: "离谱！完全不懂编程，我竟然4小时靠AI复刻出月入$600k的APP，方法居然这么简单?（无代码开发） - YouTube"
+      url: https://www.youtube.com/watch?v=SdeVNXD9q0I
+      description: "离谱！完全不懂编程，我竟然4小时靠AI复刻出月入$600k的APP，方法居然这么简单?（无代码开发） - YouTube"
+    - title: "購物車 - Mitce"
+      url: https://mitce.com/store/swiftnet
+      description: "購物車 - Mitce"
+    - title: "用Slea.ai免费AI Logo生成器轻松创建专业Logo"
+      url: https://slea.ai/zh-CN
+      description: "用Slea.ai免费AI Logo生成器轻松创建专业Logo"
+    - title: "在线订阅转换工具（肥羊）"
+      url: https://suburl.v1.mk/
+      description: "在线订阅转换工具（肥羊）"
+    - title: "软路由/openwrt安装Rustdesk，通过docker安装，配合ipv4|ipv6公网ip使用，轻松实现远程桌面|访问局域网|远程访问内网设备，rustdesk使用简单，值得推荐！ #一瓶奶油 - YouTube"
+      url: https://www.youtube.com/watch?v=yDPj_901COA
+      description: "软路由/openwrt安装Rustdesk，通过docker安装，配合ipv4|ipv6公网ip使用，轻松实现远程桌面|访问局域网|远程访问内网设备，rustd"
+    - title: "(1) openwrt openclash 还能这样子设置！？无需 smartdns，秒开国内外网站 - YouTube"
+      url: https://www.youtube.com/watch?v=Hpm2oVLLenc&t=71s
+      description: "(1) openwrt openclash 还能这样子设置！？无需 smartdns，秒开国内外网站 - YouTube"
+    - title: "openwrt openclash 还能这样子设置！？无需 smartdns，秒开国内外网站 - James Blog"
+      url: https://jameslifeblog.com/openwrt-openclash2025
+      description: "openwrt openclash 还能这样子设置！？无需 smartdns，秒开国内外网站 - James Blog"
+    - title: "公告 - Mitce"
+      url: https://mitce.net/announcements/14/%E4%BD%BF%E7%94%A8%E6%96%B0%E7%9A%84-mitce.net-%E5%9F%9F%E5%90%8D.html
+      description: "公告 - Mitce"
+    - title: "xiaoya-alist,小雅Alist的相关周边,下载xiaoya-alist的源码_GitHub_帮酷"
+      url: https://github.com/xiaoyaDev/xiaoya-alist
+      description: "xiaoya-alist,小雅Alist的相关周边,下载xiaoya-alist的源码_GitHub_帮酷"
+    - title: "𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙"
+      url: https://cokecloud.net/
+      description: "𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙"
+    - title: "Are-u-ok/x86 在 main · AUK9527/Are-u-ok · GitHub"
+      url: https://github.com/AUK9527/Are-u-ok/tree/main/x86
+      description: "Are-u-ok/x86 在 main · AUK9527/Are-u-ok · GitHub"
+    - title: "飞鸟云"
+      url: https://feiniaoyun.xyz/#/login
+      description: "飞鸟云"
+    - title: "超全中国+台港澳+海外IPTV、APTV、TVBox直播源和TV观看工具（2025年8月19日持续更新） - 文武科技柜"
+      url: https://www.wangdu.site/software/av-read/339.html?payId=20250821135921000000&param=lgxbh@163.com&type=1&price=5.00&reallyPrice=5.00&sign=8ed51aa669236f9d592fcfab049d6c74
+      description: "超全中国+台港澳+海外IPTV、APTV、TVBox直播源和TV观看工具（2025年8月19日持续更新） - 文武科技柜"
+    - title: "椒图AI - 深度适配中文场景的修图Agent！"
+      url: https://www.jiaotuai.cn/
+      description: "椒图AI - 深度适配中文场景的修图Agent！"
+    - title: "AI会话工具| 边界AI平台：集成多模型理解与对抗技术1111"
+      url: https://yyai8.com/msg?type=aW5kZXg=
+      description: "AI会话工具| 边界AI平台：集成多模型理解与对抗技术1111"
+    - title: "轻松部署无限节点代理池！从零开始小白轻松上手！CM喂饭干货满满！ | CMLiussss Blog"
+      url: https://blog.cmliussss.com/p/ProxyPool/
+      description: "轻松部署无限节点代理池！从零开始小白轻松上手！CM喂饭干货满满！ | CMLiussss Blog"
+    - title: "(1) 自建比机场还便宜！最新保姆级搭建节点教程，一键搭建Hysteria2协议，10元/年VPS晚高峰8K，建站+科学两不误 - YouTube"
+      url: https://www.youtube.com/watch?v=H8wWAgCS7Ls
+      description: "(1) 自建比机场还便宜！最新保姆级搭建节点教程，一键搭建Hysteria2协议，10元/年VPS晚高峰8K，建站+科学两不误 - YouTube"
+    - title: "(1) 零基础搭建S-UI面板！Hysteria2协议真能拯救所有VPS吗？答案在最后！如何拯救垃圾VPS？高速稳定节点教程！｜提速｜高速翻墙｜Singbox｜Reality｜干货教程E18 - YouTube"
+      url: https://www.youtube.com/watch?v=XnYKzp2Gf_4
+      description: "(1) 零基础搭建S-UI面板！Hysteria2协议真能拯救所有VPS吗？答案在最后！如何拯救垃圾VPS？高速稳定节点教程！｜提速｜高速翻墙｜Singbox｜"
+    - title: "購物車 - JuHost"
+      url: https://members.juhost.com/cart.php?a=complete
+      description: "購物車 - JuHost"
+    - title: "(1) 别再用“万人骑”的机房IP了！这才是终极白嫖！成本0元，小白手搓“高速 纯净住宅IP”，YouTube晚高峰4K随便拖，永久免费解锁一切！真香！比买的还快！ - YouTube"
+      url: https://www.youtube.com/watch?v=L4amDxNdXW4&t=637s
+      description: "(1) 别再用“万人骑”的机房IP了！这才是终极白嫖！成本0元，小白手搓“高速 纯净住宅IP”，YouTube晚高峰4K随便拖，永久免费解锁一切！真香！比买的还"
+    - title: "Wispbyte - Dashboard德国"
+      url: https://wispbyte.com/client/dashboard
+      description: "Wispbyte - Dashboard德国"
+    - title: "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器"
+      url: https://www.meiguodizhi.com/
+      description: "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器"
+    - title: "(1) 【全网首发】 Cloudns双向域名部署地表最强永久免费snippets代理节点，速度拉满，无限流量，发挥出最大价值，ChatGPT&amp;流媒体畅通无阻，100% 固定落地ip，一次部署，终身无需修改代码 - YouTube"
+      url: https://www.youtube.com/watch?v=ZXzsVg1adL8
+      description: "(1) 【全网首发】 Cloudns双向域名部署地表最强永久免费snippets代理节点，速度拉满，无限流量，发挥出最大价值，ChatGPT&amp;流媒体畅通"
+    - title: "(1) 【Snippets 更新】Cloudflare Pages 部署 节点 完整教程！从零开始 一个视频说清楚就近响应和指定地区，附Snippets硬编码部署。 - YouTube"
+      url: https://www.youtube.com/watch?v=_-4bG-MCqk4&t=967s
+      description: "(1) 【Snippets 更新】Cloudflare Pages 部署 节点 完整教程！从零开始 一个视频说清楚就近响应和指定地区，附Snippets硬编码部"
+    - title: "(1) 油管4K突破45万！目前最快+稳定的免费代理部署方案之一，碾压付费级VPS！ | TUIC+Vless双协议组合 | 远离QoS阻断 | 个人代理不封号 - YouTube"
+      url: https://www.youtube.com/watch?v=mIYiAKy19fk
+      description: "(1) 油管4K突破45万！目前最快+稳定的免费代理部署方案之一，碾压付费级VPS！ | TUIC+Vless双协议组合 | 远离QoS阻断 | 个人代理不封号"
+    - title: "(1) 无限流量！两款欧洲免费虚拟主机，最高3G内存+15 G存储｜Node.js/Java部署TUIC/hy2节点｜油管4K突破10万码率｜ChatGPT NETFLIX解锁Wispbyte MCST.IO - YouTube"
+      url: https://www.youtube.com/watch?v=znbBp29KXAQ&t=83s
+      description: "(1) 无限流量！两款欧洲免费虚拟主机，最高3G内存+15 G存储｜Node.js/Java部署TUIC/hy2节点｜油管4K突破10万码率｜ChatGPT N"
+    - title: "Wispbyte - Console"
+      url: https://wispbyte.com/client/servers/472f1421/console
+      description: "Wispbyte - Console"
+    - title: "lgxbh | Railway美国"
+      url: https://railway.com/project/8f137e01-2c6c-4bdc-8f37-ee5425d72290/service/2bff3eeb-66f7-4371-b5f6-17888ec27b2f?environmentId=89ba5f46-26c5-4164-92c0-1900079d6457
+      description: "lgxbh | Railway美国"
+    - title: "Railway美国"
+      url: https://railway.com/dashboard
+      description: "Railway美国"
+    - title: "2025零基础最新自建科学上网教程！S-UI面板搭建专属高速稳定节点、支持多用户多节点、一次学会部署Vless、TUIC、reality、hysteria2节点翻墙+全平台客户端使用 - YouTube"
+      url: https://www.youtube.com/watch?v=6l01iAgKglY&t=691s
+      description: "2025零基础最新自建科学上网教程！S-UI面板搭建专属高速稳定节点、支持多用户多节点、一次学会部署Vless、TUIC、reality、hysteria2节点"
+    - title: "科技lion一键脚本 Linux服务器运维工具箱 监控管理建站一个脚本全搞定！"
+      url: https://blog.kejilion.pro/kejilion-sh/
+      description: "科技lion一键脚本 Linux服务器运维工具箱 监控管理建站一个脚本全搞定！"
+    - title: "(1) 用Docker自建RustDesk远程桌面服务 和向日葵说拜拜！ - YouTube"
+      url: https://www.youtube.com/watch?v=_Q0b_6T-3PE
+      description: "(1) 用Docker自建RustDesk远程桌面服务 和向日葵说拜拜！ - YouTube"
+    - title: "Your server | KataBump法国VPS"
+      url: https://dashboard.katabump.com/servers/edit?id=168369
+      description: "Your server | KataBump法国VPS"
+    - title: "51.68.34.78-高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台"
+      url: https://ping0.cc/ip/51.68.34.78
+      description: "51.68.34.78-高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台"
+    - title: "NodeJS-Universal | 控制台德国一月控制台"
+      url: https://pterodactyl.freecloud.ltd/server/1fb91f37
+      description: "NodeJS-Universal | 控制台德国一月控制台"
+    - title: "2a09:bac6:d720:1173::1bd:109-高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台"
+      url: https://ping0.cc/
+      description: "2a09:bac6:d720:1173::1bd:109-高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平"
+    - title: "(1) Gemini 3 Pro 企业版无限免费使用教程，保姆级教学，人人可会！ - YouTube"
+      url: https://www.youtube.com/watch?v=XhnlNtB9I1A
+      description: "(1) Gemini 3 Pro 企业版无限免费使用教程，保姆级教学，人人可会！ - YouTube"
+    - title: "Gemini Enterprise"
+      url: https://business.gemini.google/home/cid/7cd788a6-1a27-4876-aeac-9f9350ecfa23?csesidx=2023876034
+      description: "Gemini Enterprise"
+    - title: "用Docker快速搭建流行的PanSou网盘搜索工具"
+      url: https://blog.kejilion.pro/pansou/
+      description: "用Docker快速搭建流行的PanSou网盘搜索工具"
+    - title: "(3) 免费申请虚拟海外银行卡 | 0开卡费0年费 | 支持大陆身份 | 线上直接开卡 | Bitget Wallet 银行卡 | 可订阅GPT和Gemini | 从注册到使用全过程教程 - YouTube"
+      url: https://www.youtube.com/watch?v=RRap2O_vzgk
+      description: "(3) 免费申请虚拟海外银行卡 | 0开卡费0年费 | 支持大陆身份 | 线上直接开卡 | Bitget Wallet 银行卡 | 可订阅GPT和Gemini "
+    - title: "Galaxy 2.0免费服务器"
+      url: https://beta.galaxycloud.app/lgxbh2023/us-east-1
+      description: "Galaxy 2.0免费服务器"
+    - title: "(5) 最全面VPS调优教程 有些设置你一定要这样搞才提升明显！￼ - YouTube"
+      url: https://www.youtube.com/watch?v=OR73PNaJmbk
+      description: "(5) 最全面VPS调优教程 有些设置你一定要这样搞才提升明显！￼ - YouTube"
+    - title: "istoreos科学上网软件"
+      url: https://github.com/AUK9527/Are-u-ok
+      description: "istoreos科学上网软件"
+    - title: "《RackNerd 秒变“光速”！用 Cloudflare 优选 IP 一键提速两倍，YouTube 8K 秒开不是梦！》 – mcx博客"
+      url: https://mliaomcx.com/%e3%80%8aracknerd-%e7%a7%92%e5%8f%98%e5%85%89%e9%80%9f%ef%bc%81%e7%94%a8-cloudflare-%e4%bc%98%e9%80%89-ip-%e4%b8%80%e9%94%ae%e6%8f%90%e9%80%9f%e4%b8%a4%e5%80%8d%ef%bc%8cyoutube-8k/
+      description: "《RackNerd 秒变“光速”！用 Cloudflare 优选 IP 一键提速两倍，YouTube 8K 秒开不是梦！》 – mcx博客"
+    - title: "印度节点面板"
+      url: https://server3.webhostmost.com:2222/evo/
+      description: "印度节点面板"
+    - title: "专业AI管理型主机 | WebHostMost"
+      url: https://www.webhostmost.com/
+      description: "专业AI管理型主机 | WebHostMost"
+    - title: "Linux服务器VPS常用测试脚本：综合、性能、路由线路、网速、流媒体应用解锁、IP质量 | 自由超"
+      url: https://freechao.com/8930.html
+      description: "Linux服务器VPS常用测试脚本：综合、性能、路由线路、网速、流媒体应用解锁、IP质量 | 自由超"
+    - title: "Blomp美国网盘40G"
+      url: https://dashboard.blomp.com/dashboard/files
+      description: "Blomp美国网盘40G"
+    - title: "FEB-1T网盘"
+      url: https://www.febbox.com/console#/home
+      description: "FEB-1T网盘"
+    - title: "InfiniCLOUD | 日本U盘 20GB 空间"
+      url: https://infini-cloud.net/en/index.html
+      description: "InfiniCLOUD | 日本U盘 20GB 空间"
+    - title: "德国U盘-64G"
+      url: https://hubu.cloud/
+      description: "德国U盘-64G"
+    - title: "免费去除视频水印 - 清除徽标和日期"
+      url: https://online-video-cutter.com/remove-logo
+      description: "免费去除视频水印 - 清除徽标和日期"
+    - title: "会员中心 - 帕斯云-性能与便捷"
+      url: https://www.pasyun.com/member/index
+      description: "会员中心 - 帕斯云-性能与便捷"
+    - title: "IP2free"
+      url: https://www.ip2free.com/cn/freeProxy
+      description: "IP2free"
+    - title: "国内1T空间"
+      url: https://www.hi168.com/#/desktop
+      description: "国内1T空间"
+    - title: "DediRock洛杉矶VPS年付"
+      url: https://billing.dedirock.com/clientarea.php?action=productdetails&id=10945
+      description: "DediRock洛杉矶VPS年付"
+    - title: "Gemini3.1"
+      url: https://adam.new/cadam#
+      description: "Gemini3.1"
+    - title: "AcckCloud – 大带宽流媒体解锁VPS"
+      url: https://acck.io/
+      description: "AcckCloud – 大带宽流媒体解锁VPS"
+    - title: "虚机 | 服务 | Nube 云服务"
+      url: https://console.nube.sh/zh-cn/10044158/10045612/vm/list
+      description: "虚机 | 服务 | Nube 云服务"
+    - title: "SkillHub-AI提示词大集"
+      url: https://skillhub.tencent.com/
+      description: "SkillHub-AI提示词大集"
+    - title: "我用的API Keys | Settings | OpenRouter"
+      url: https://openrouter.ai/workspaces/default/keys?utm_source=signup-success
+      description: "我用的API Keys | Settings | OpenRouter"
+    - title: "挑战最快：30分钟搞定百万级影音中心 免刮削 开箱即用 自动更新_哔哩哔哩_bilibili"
+      url: https://www.bilibili.com/video/BV1onQEBGEgx/?spm_id_from=333.1387.homepage.video_card.click
+      description: "挑战最快：30分钟搞定百万级影音中心 免刮削 开箱即用 自动更新_哔哩哔哩_bilibili"
 
+- taxonomy: 金融
+  icon: fa-credit-card
+  links:
+    - title: "(17) 仅需身份证！Wise红利窗口期：无需护照拥有全球账户，香港账户重大更新解析（附避坑指南） - YouTube"
+      url: https://www.youtube.com/watch?v=7Rmo5LsG-iA&t=51s
+      description: "(17) 仅需身份证！Wise红利窗口期：无需护照拥有全球账户，香港账户重大更新解析（附避坑指南） - YouTube"
 
-- taxonomy: 学习教程
-  icon: fa-regular fa-folder-open
-  list: 
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: images/logos/designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: images/logos/awesome_design_systems.png
-          description:  A collection of awesome design systems
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: images/logos/Material_Design.png
-          description: Introduction - Material Design
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: images/logos/human_interface_guidelines.png
-          description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
+- taxonomy: 工作
+  icon: fa-briefcase
+  links:
+    - title: "广西社会组织网"
+      url: http://shzz.mzt.gxzf.gov.cn/
+      description: "广西社会组织网"
+    - title: "一个组织内各部门的信息需求在范围、内容、详细程度和使用频率等方面有差别。 - 问答库"
+      url: https://www.asklib.com/view/510bc2b398dd.html
+      description: "一个组织内各部门的信息需求在范围、内容、详细程度和使用频率等方面有差别。 - 问答库"
+    - title: "公众号"
+      url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1807984384&lang=zh_CN
+      description: "公众号"
+    - title: "北海市人民政府门户网站"
+      url: http://www.beihai.gov.cn/
+      description: "北海市人民政府门户网站"
+    - title: "职业教育题库_在线题库_问答题库_搜题王_题王网"
+      url: https://www.tiw.cn/
+      description: "职业教育题库_在线题库_问答题库_搜题王_题王网"
+    - title: "【松鼠办公】—让办公更智能"
+      url: http://www.superlgr.com/
+      description: "【松鼠办公】—让办公更智能"
+    - title: "院校主页"
+      url: https://degree.qingshuxuetang.com/gd/Home
+      description: "院校主页"
+    - title: "当图网 - 全国专业PPT模板下载网站-海量精品PPT模板免费下载"
+      url: https://www.99ppt.com/
+      description: "当图网 - 全国专业PPT模板下载网站-海量精品PPT模板免费下载"
+    - title: "VJ师网_正版视频素材下载"
+      url: https://www.vjshi.com/
+      description: "VJ师网_正版视频素材下载"
+    - title: "大洋全功能非编D3-Edit_大洋全功能非编D3-Edit正式版【绿色|无毒】-太平洋下载中心"
+      url: https://dl.pconline.com.cn/download/1380778.html
+      description: "大洋全功能非编D3-Edit_大洋全功能非编D3-Edit正式版【绿色|无毒】-太平洋下载中心"
+    - title: "压箱经典分享：电视台专用非编——大洋非编D3-Edit_v2.81.1.10全功能版+X64完美集... - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn"
+      url: https://www.52pojie.cn/thread-925523-1-1.html
+      description: "压箱经典分享：电视台专用非编——大洋非编D3-Edit_v2.81.1.10全功能版+X64完美集... - 『精品软件区』 - 吾爱破解 - LCG - LS"
+    - title: "V视频助手-一键下载在线视频(支持VIP)"
+      url: http://v.ranks.xin/
+      description: "V视频助手-一键下载在线视频(支持VIP)"
+    - title: "幕后 (Muhou) – 幕后工作者互动平台 – 作品/观点/资源分享网站"
+      url: https://muhou.net/
+      description: "幕后 (Muhou) – 幕后工作者互动平台 – 作品/观点/资源分享网站"
+    - title: "【PR模板】视频免费下载_PR模板视频素材_【包图网】"
+      url: https://ibaotu.com/shipin/7-5139-0-0-0-1.html
+      description: "【PR模板】视频免费下载_PR模板视频素材_【包图网】"
+    - title: "中国应急管理报数字报纸 电子版"
+      url: http://www.aqsc.cn/common/pages/paper_notice_aqb.html
+      description: "中国应急管理报数字报纸 电子版"
+    - title: "培音-专业广告配音软件"
+      url: http://peiyinapp.com/dc/
+      description: "培音-专业广告配音软件"
+    - title: "媒资登录"
+      url: http://61.161.226.212:38080/cas/login?service=http%3A%2F%2F61.161.226.212%3A38080%2FYLMainFrame%2F
+      description: "媒资登录"
+    - title: "tt0.top(GIF制作)"
+      url: https://tt0.top/
+      description: "tt0.top(GIF制作)"
+    - title: "创客贴 - 制作 - 设计页"
+      url: https://www.chuangkit.com/design?d=96ff79ae-db7b-4ee0-a440-e374e1bd666d
+      description: "创客贴 - 制作 - 设计页"
+    - title: "永乐汉化后期资源网,PS滤镜,AE插件,edius,绘声绘影，汉化版,永乐汉化，苹果软件中文版 - Powered by Discuz!"
+      url: http://www.ylhh.net/forum.php
+      description: "永乐汉化后期资源网,PS滤镜,AE插件,edius,绘声绘影，汉化版,永乐汉化，苹果软件中文版 - Powered by Discuz!"
+    - title: "LookAE.com-大众脸影视后期特效"
+      url: https://www.lookae.com/
+      description: "LookAE.com-大众脸影视后期特效"
+    - title: "海报-海报模板可编辑下载-创客贴"
+      url: https://www.chuangkit.com/polymer/65.html?utm_source=hbzc&utm_campaign=gq
+      description: "海报-海报模板可编辑下载-创客贴"
+    - title: "逼格PPT - ppt模板_ppt下载_免费ppt_比格ppt"
+      url: http://www.tretars.com/
+      description: "逼格PPT - ppt模板_ppt下载_免费ppt_比格ppt"
+    - title: "51PPT模板网 - 幻灯片演示模板及素材下载"
+      url: http://www.51pptmoban.com/
+      description: "51PPT模板网 - 幻灯片演示模板及素材下载"
+    - title: "免费ppt模板,ppt模板下载,幻灯片模板 - 51PPT模板网"
+      url: http://www.51pptmoban.com/ppt/index_17.html
+      description: "免费ppt模板,ppt模板下载,幻灯片模板 - 51PPT模板网"
+    - title: "ppt模板下载_ppt素材_幻灯片模板_docer稻壳儿官网"
+      url: https://www.docer.com/s/wpp?from_win=top_tab_ppt&m_origin_scene=head&position=rknull_mallshop_head_hdjgy-v00&channel=rknull_mallshop_hdjgy-v00
+      description: "ppt模板下载_ppt素材_幻灯片模板_docer稻壳儿官网"
+    - title: "工作总结PPT模板_工作汇报PPT模板_工作报告PPT模板下载_4 - 优品PPT"
+      url: http://www.ypppt.com/moban/zongjie/list-4.html
+      description: "工作总结PPT模板_工作汇报PPT模板_工作报告PPT模板下载_4 - 优品PPT"
+    - title: "GitMind - 在线免费思维导图软件"
+      url: https://gitmind.cn/
+      description: "GitMind - 在线免费思维导图软件"
+    - title: "Docin.com豆丁网-分享文档 发现价值"
+      url: https://www.docin.com/
+      description: "Docin.com豆丁网-分享文档 发现价值"
+    - title: "千图网-免费设计图片素材网站-正版图库免费设计素材中国"
+      url: https://www.58pic.com/
+      description: "千图网-免费设计图片素材网站-正版图库免费设计素材中国"
+    - title: "123apps – 免费网络应用"
+      url: https://123apps.com/cn/
+      description: "123apps – 免费网络应用"
+    - title: "ProcessOn - 免费在线作图，思维导图，流程图，实时协作"
+      url: https://www.processon.com/
+      description: "ProcessOn - 免费在线作图，思维导图，流程图，实时协作"
+    - title: "唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载"
+      url: https://www.jijidown.com/
+      description: "唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载"
+    - title: "兔展作品分享页"
+      url: http://www.rabbitpre.com/share.html?appid=11912caf-bc1b-4e55-978d-9cedee10e3bb
+      description: "兔展作品分享页"
+    - title: "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板"
+      url: https://www.gaoding.com/
+      description: "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板"
+    - title: "森林小河在阳光下-免费股票视频-Mixkit"
+      url: https://mixkit.co/free-stock-video/forest-stream-in-the-sunlight-529/
+      description: "森林小河在阳光下-免费股票视频-Mixkit"
+    - title: "有图-youtucc.com|画册及照片书制作软件/翻页电子书制作软件/电子杂志制作软件/H5制作平台"
+      url: http://www.360youtu.com/H5.shtml
+      description: "有图-youtucc.com|画册及照片书制作软件/翻页电子书制作软件/电子杂志制作软件/H5制作平台"
+    - title: "介绍 · GitBook"
+      url: https://embywiki.911997.xyz/
+      description: "介绍 · GitBook"
+    - title: "XMRth"
+      url: https://xmrth.shop/
+      description: "XMRth"
+    - title: "国家消防救援局"
+      url: https://www.119.gov.cn/index.shtml
+      description: "国家消防救援局"
+    - title: "免费的PPT幻灯片演示制作软件,动画视频及课件制作软件 - Focusky万彩演示大师官网"
+      url: https://www.focusky.com.cn/?from=wi
+      description: "免费的PPT幻灯片演示制作软件,动画视频及课件制作软件 - Focusky万彩演示大师官网"
+    - title: "(4) 永久免费的VPS主机，3G的内存，15G的存储，速度极快，稳定全球直达！永久保活，小白必备！｜VPS｜节点｜网站｜翻墙｜服务器｜小白｜新人｜主机｜ - YouTube"
+      url: https://www.youtube.com/watch?v=Bq7VjJ3weA0
+      description: "(4) 永久免费的VPS主机，3G的内存，15G的存储，速度极快，稳定全球直达！永久保活，小白必备！｜VPS｜节点｜网站｜翻墙｜服务器｜小白｜新人｜主机｜ - "
 
-      
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: images/logos/PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: images/logos/doyoudo.png
-          description: 创意设计软件学习平台
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: images/logos/web_ui_tutorial.png
-          description: WEB UI免费视频公开课
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: images/logos/imooc.png
-          description: 程序员的梦工厂（有UI课程）
-        
-    - term: 设计文章
-      links:
-        - title: 优设网
-          url: http://www.uisdc.com/
-          logo: images/logos/uisdc.png
-          description: 设计师交流学习平台
-        - title: Web Design Ledger
-          url: https://webdesignledger.com
-          logo: images/logos/webdesignledger.png
-          description: Web Design Blog
-        - title: Medium
-          url: https://medium.com/
-          logo: images/logos/medium.png
-          description: Read, write and share stories that matter
+- taxonomy: 我的esim
+  icon: fa-globe
+  links:
+    - title: "爱沙尼亚"
+      url: https://esimplus.me/mobile-data
+      description: "爱沙尼亚"
 
-    - term: 设计电台
-      links:
-        - title: UX Coffee
-          url: http://uxcoffee.co/
-          logo: images/logos/uxcoffee.png
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-        - title: Anyway.FM
-          url: https://anyway.fm/
-          logo: images/logos/anyway.png
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-        - title: 异能电台
-          url: https://www.yineng.fm
-          logo: images/logos/yineng.png
-          description: 将全宇宙设计师的故事讲给你听。
+- taxonomy: youtube学习
+  icon: fa-youtube-play
+  links:
+    - title: "(1) 谷歌云vps使用密钥对登录ssh工具 finalshell 一键脚本生成四大协议上网链接 - YouTube"
+      url: https://www.youtube.com/watch?v=vH_re3ll5Ds
+      description: "(1) 谷歌云vps使用密钥对登录ssh工具 finalshell 一键脚本生成四大协议上网链接 - YouTube"
+    - title: "(1) VPS搭建3x-ui面板，开启cloudflare CDN加速，设置cloudflare自动证书，优选IP加速，谷歌云服务器，科学上网 - YouTube"
+      url: https://www.youtube.com/watch?v=BsVAN2bx5Wo&t=49s
+      description: "(1) VPS搭建3x-ui面板，开启cloudflare CDN加速，设置cloudflare自动证书，优选IP加速，谷歌云服务器，科学上网 - YouTub"
+    - title: "將NotebookLM簡報變成可編輯 - YouTube"
+      url: https://www.youtube.com/watch?v=R_CwAva8bks
+      description: "將NotebookLM簡報變成可編輯 - YouTube"
+    - title: "PVE9安装教程｜换源+定制ROM，AMD核显直通显示输出，LXC容器 - YouTube"
+      url: https://www.youtube.com/watch?v=lAtk_zDRAXQ
+      description: "PVE9安装教程｜换源+定制ROM，AMD核显直通显示输出，LXC容器 - YouTube"
+    - title: "(5) NotebookLM 簡報痛點解決！4 步驟將 PDF 轉成「完全可編輯」Google Slides（Gemini 魔法指令全公開） - YouTube"
+      url: https://www.youtube.com/watch?v=__xxvdgR6k0
+      description: "(5) NotebookLM 簡報痛點解決！4 步驟將 PDF 轉成「完全可編輯」Google Slides（Gemini 魔法指令全公開） - YouTube"
+    - title: "(5) 这可能是最干净的一套 OpenClash 分流设计，精细分流，有效防止dns泄漏，别再手选节点了，应用级分流才是正解，一键使用也可自定义配置，翻墙必备，这是一套可以“长期使用” 的机场订阅规则模版 - YouTube"
+      url: https://www.youtube.com/watch?v=KDExZ1j4xfo&t=751s
+      description: "(5) 这可能是最干净的一套 OpenClash 分流设计，精细分流，有效防止dns泄漏，别再手选节点了，应用级分流才是正解，一键使用也可自定义配置，翻墙必备，"
+    - title: "(6) NotebookLM 做的 PPT 没法用？2 套 AI 高阶工作流：改良速成 vs Gemini + Nano Banana 完美定制 - YouTube"
+      url: https://www.youtube.com/watch?v=G-_yHSqND-c
+      description: "(6) NotebookLM 做的 PPT 没法用？2 套 AI 高阶工作流：改良速成 vs Gemini + Nano Banana 完美定制 - YouTu"
+    - title: "(11) 【新手必看】PVE安装和优化 | 新手保姆教程 | All in One 基础篇 - YouTube"
+      url: https://www.youtube.com/watch?v=Jq4TlrBnGJ8
+      description: "(11) 【新手必看】PVE安装和优化 | 新手保姆教程 | All in One 基础篇 - YouTube"
+    - title: "(14) 【真正免费VPS】最新成功抢号+简化部署攻略，彻底拯救垃圾线路 | YouTube 4K晚高峰15万 | 告别QoS阻断 | Argo Tunnel TUIC | HAX VPS Woiden VPS - YouTube"
+      url: https://www.youtube.com/watch?v=JqhmpS8QrA4
+      description: "(14) 【真正免费VPS】最新成功抢号+简化部署攻略，彻底拯救垃圾线路 | YouTube 4K晚高峰15万 | 告别QoS阻断 | Argo Tunnel "
+    - title: "(17) 用 Cloudflare 免费搭建远程NAS系统，打造属于自己的私有云 - YouTube"
+      url: https://www.youtube.com/watch?v=RkFscjlSkn4
+      description: "(17) 用 Cloudflare 免费搭建远程NAS系统，打造属于自己的私有云 - YouTube"
+    - title: "(17) 配置和使用新版 CloudDrive2~直接添加网盘，WebDAV和挂载到系统本地～ - YouTube"
+      url: https://www.youtube.com/watch?v=gCoUFhrGAc8
+      description: "(17) 配置和使用新版 CloudDrive2~直接添加网盘，WebDAV和挂载到系统本地～ - YouTube"
+    - title: "(2) 如何提高 Gemini 的回复质量 | 学会这5 个技巧 | 让你超过 99%的人 | 系统指令 | GEM - YouTube"
+      url: https://www.youtube.com/watch?v=AOzjeyGCWpM
+      description: "(2) 如何提高 Gemini 的回复质量 | 学会这5 个技巧 | 让你超过 99%的人 | 系统指令 | GEM - YouTube"
+    - title: "(3) 国内高速网盘免费送1TB，不限速直连！AList全平台挂载保姆级教程 (手机+PC) - YouTube"
+      url: https://www.youtube.com/watch?v=QWBzXaScads
+      description: "(3) 国内高速网盘免费送1TB，不限速直连！AList全平台挂载保姆级教程 (手机+PC) - YouTube"
+    - title: "(3) PVE9安装优化超详细教程，PVE9上面安装openwrt并设置为二级路由，旁路由，主路由方法 - YouTube"
+      url: https://www.youtube.com/watch?v=9-odZdMD6mg
+      description: "(3) PVE9安装优化超详细教程，PVE9上面安装openwrt并设置为二级路由，旁路由，主路由方法 - YouTube"
+    - title: "(5) [404]优化YouTube首页布局 显示更多推荐视频 │YouTube首页缩略图太大 每行只能显示3-4个视频 这样调整最实用│如何隐藏推荐的短视频 - YouTube"
+      url: https://www.youtube.com/watch?v=YnMJ-eSjoZM
+      description: "(5) [404]优化YouTube首页布局 显示更多推荐视频 │YouTube首页缩略图太大 每行只能显示3-4个视频 这样调整最实用│如何隐藏推荐的短视频 "
+    - title: "(3) 白嫖Google云服务器！2026最新一键脚本全自动创建免费VPS｜SSH配置+防火墙规避CDN收费完整教程 - YouTube"
+      url: https://www.youtube.com/watch?v=8xhPMU4BxfQ&t=22s
+      description: "(3) 白嫖Google云服务器！2026最新一键脚本全自动创建免费VPS｜SSH配置+防火墙规避CDN收费完整教程 - YouTube"
+    - title: "(3) 史上最强 8协议合1 一键脚本 想用哪个就用哪个 搭建节点 科学上网 Sing-box Hysteria2 Tuic Naive - YouTube"
+      url: https://www.youtube.com/watch?v=9pQzYyY3yy8&list=PL7VFM59s65fI-z-Irq6WsVsk4j6zSJ352
+      description: "(3) 史上最强 8协议合1 一键脚本 想用哪个就用哪个 搭建节点 科学上网 Sing-box Hysteria2 Tuic Naive - YouTube"
+    - title: "(2) 【副业赚钱】一年躺赚 $400+ 公开我的副业网站，带你 100% 像素级复刻（附源码） - YouTube"
+      url: https://www.youtube.com/watch?v=yBIyQP-Pb6c&t=39s
+      description: "(2) 【副业赚钱】一年躺赚 $400+ 公开我的副业网站，带你 100% 像素级复刻（附源码） - YouTube"
+    - title: "(2) 拯救你的垃圾VPS！优选IP加速教程 | 什么是优选IP？如何使用？ | 优选器 | 订阅转换器 | 零基础自建节点系列 | 无限芝士 - YouTube"
+      url: https://www.youtube.com/watch?v=E5PI0LsQ43M&t=42s
+      description: "(2) 拯救你的垃圾VPS！优选IP加速教程 | 什么是优选IP？如何使用？ | 优选器 | 订阅转换器 | 零基础自建节点系列 | 无限芝士 - YouTub"
+    - title: "(2) 利润大到吓人的小生意，稳定月入7. 4w，代价是肯吃苦熬夜，选择比努力重要，其实富起来也就两三年 #tiktok #tiktok赚钱 #tiktok干货 #副业 - YouTube"
+      url: https://www.youtube.com/watch?v=N1PnW59ujPw
+      description: "(2) 利润大到吓人的小生意，稳定月入7. 4w，代价是肯吃苦熬夜，选择比努力重要，其实富起来也就两三年 #tiktok #tiktok赚钱 #tiktok干货"
+    - title: "(1) 2026最新免费白嫖高纯度住宅IP！TikTok直播 静态住宅IP 动态住宅IP 注册养号必备 ISP节点推荐 真正永不被封！最安全的最小白的vpn！终身免费!无限流量！不限速！开源永久免费VPN - YouTube"
+      url: https://www.youtube.com/watch?v=QPTDBJw7-I0
+      description: "(1) 2026最新免费白嫖高纯度住宅IP！TikTok直播 静态住宅IP 动态住宅IP 注册养号必备 ISP节点推荐 真正永不被封！最安全的最小白的vpn！终"
+    - title: "(1) 刚刚！龙虾又发新版3.24！这波更新，稳到离谱… - YouTube"
+      url: https://www.youtube.com/watch?v=MuwykUyktGo
+      description: "(1) 刚刚！龙虾又发新版3.24！这波更新，稳到离谱… - YouTube"
+    - title: "(1) Hermes Agent 新手使用十大技巧 - YouTube"
+      url: https://www.youtube.com/watch?v=hLiN_X7dzdw
+      description: "(1) Hermes Agent 新手使用十大技巧 - YouTube"
+    - title: "PVE9安装优化超详细教程，PVE9上面安装openwrt并设置为二级路由，旁路由，主路由方法 - YouTube"
+      url: https://www.youtube.com/watch?v=9-odZdMD6mg&t=724s
+      description: "PVE9安装优化超详细教程，PVE9上面安装openwrt并设置为二级路由，旁路由，主路由方法 - YouTube"
+    - title: "(1) 【全网首发】一键全自动搭建永久免费节点 | 1101和-1问题 | Cloudflare | 优选IP | 翻墙 | VPN | 科学上网 | 免费梯子 | 自建节点 | 教程 - YouTube"
+      url: https://www.youtube.com/watch?v=iAzcckk7bOM&t=284s
+      description: "(1) 【全网首发】一键全自动搭建永久免费节点 | 1101和-1问题 | Cloudflare | 优选IP | 翻墙 | VPN | 科学上网 | 免费梯子"
+    - title: "2026最全免费AI API盘点！每月白嫖16亿Token，零成本实现大模型自由！ - YouTube"
+      url: https://www.youtube.com/watch?v=fll88-uwDKo&t=11s
+      description: "2026最全免费AI API盘点！每月白嫖16亿Token，零成本实现大模型自由！ - YouTube"
+    - title: "快递查询"
+      url: http://www.kuaidi100.com/user/history.shtml?favorites=history
+      description: "快递查询"
+    - title: "豆瓣"
+      url: http://www.douban.com/
+      description: "豆瓣"
+    - title: "九点"
+      url: http://9.douban.com/
+      description: "九点"
+    - title: "磨房 - 自助旅行和户外运动的出发地 - 磨房"
+      url: http://www.doyouhike.net/
+      description: "磨房 - 自助旅行和户外运动的出发地 - 磨房"
+    - title: "人民币金额（数字）大小写转换在线工具"
+      url: http://link.fobshanghai.com/rmb.htm
+      description: "人民币金额（数字）大小写转换在线工具"
+    - title: "XMRth"
+      url: https://xmrth.one/
+      description: "XMRth"
+    - title: "泡泡云 - 地址发布页"
+      url: https://ppy.369.cyou/
+      description: "泡泡云 - 地址发布页"
+    - title: "咪咕视频体育频道-精彩赛事在线直播"
+      url: https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html
+      description: "咪咕视频体育频道-精彩赛事在线直播"
+    - title: "英超直播在線看_英超賽程_英超 live stream - 88直播"
+      url: http://www.88zhibo.net/match/8/live
+      description: "英超直播在線看_英超賽程_英超 live stream - 88直播"
+    - title: "AnywhereAnything"
+      url: http://lackar.com/aa/
+      description: "AnywhereAnything"
+    - title: "site:pan.baidu.com_百度搜索"
+      url: http://www.baidu.com/s?wd=site%3Apan.baidu.com
+      description: "site:pan.baidu.com_百度搜索"
+    - title: "[百度云网盘]高分求会声会影X10软件+注册机+汉化包_小不点搜索"
+      url: https://www.xiaoso.net/t/843031/t/1514098963
+      description: "[百度云网盘]高分求会声会影X10软件+注册机+汉化包_小不点搜索"
+    - title: "小不点搜索_百度网盘搜索第一引擎"
+      url: https://www.xiaoso.net/
+      description: "小不点搜索_百度网盘搜索第一引擎"
+    - title: "5566精彩网址大全 -&gt; 最早最方便的网址导航站"
+      url: https://www.5566.org/
+      description: "5566精彩网址大全 -&gt; 最早最方便的网址导航站"
+    - title: "昵图网_原创素材共享平台www.nipic.com"
+      url: http://www.nipic.com/
+      description: "昵图网_原创素材共享平台www.nipic.com"
+    - title: "智能电视网_智能电视论坛_智能电视软件_智能电视游戏_安卓机顶盒论坛"
+      url: https://www.znds.com/
+      description: "智能电视网_智能电视论坛_智能电视软件_智能电视游戏_安卓机顶盒论坛"
+    - title: "蓝奏云-控制台"
+      url: https://up.woozooo.com/u
+      description: "蓝奏云-控制台"
+    - title: "包图网_专注原创商用设计图片下载，免费设计素材模板独家图库"
+      url: https://ibaotu.com/
+      description: "包图网_专注原创商用设计图片下载，免费设计素材模板独家图库"
+    - title: "PPT模板下载_免费PPT模板下载_精美免费PPT模板下载 - 优品PPT"
+      url: http://www.ypppt.com/
+      description: "PPT模板下载_免费PPT模板下载_精美免费PPT模板下载 - 优品PPT"
+    - title: "PPT模板_PPT模板下载_幻灯片模板_PPT模版免费下载 -【第一PPT】"
+      url: http://www.1ppt.com/
+      description: "PPT模板_PPT模板下载_幻灯片模板_PPT模版免费下载 -【第一PPT】"
+    - title: "吾爱破解 - LCG - LSG|安卓破解|病毒分析|破解软件|www.52pojie.cn"
+      url: https://www.52pojie.cn/
+      description: "吾爱破解 - LCG - LSG|安卓破解|病毒分析|破解软件|www.52pojie.cn"
+    - title: "百度网盘-全部文件"
+      url: https://pan.baidu.com/disk/home#/all?path=%2F&vmode=list
+      description: "百度网盘-全部文件"
+    - title: "PS艺术照滤镜AutoFX?Mystical?Tint?Tone?and?Color?2.0注册_zhanglei700_新浪博客"
+      url: http://blog.sina.com.cn/s/blog_5e5dedce0100kj97.html
+      description: "PS艺术照滤镜AutoFX?Mystical?Tint?Tone?and?Color?2.0注册_zhanglei700_新浪博客"
+    - title: "YouTube"
+      url: https://www.youtube.com/
+      description: "YouTube"
+    - title: "北海365 - 我爱北海每一天"
+      url: http://www.beihai365.com/bbs/index.php?sid=uSFCnrbA
+      description: "北海365 - 我爱北海每一天"
+    - title: "微信公众平台"
+      url: https://mp.weixin.qq.com/
+      description: "微信公众平台"
+    - title: "兔展"
+      url: http://www.rabbitpre.com/
+      description: "兔展"
+    - title: "爆米兔 - H5微信/移动营销创意平台"
+      url: http://www.baomitu.com/
+      description: "爆米兔 - H5微信/移动营销创意平台"
+    - title: "易企秀|免费H5页面微场景制作工具|一键生成H5-企业营销,个人展示-节日贺卡,企业招聘,活动,促销,微信H5推广,企业移动自营销管家-易企秀官网（eqxiu.com)"
+      url: http://3076.replace.favo.gng92.com/
+      description: "易企秀|免费H5页面微场景制作工具|一键生成H5-企业营销,个人展示-节日贺卡,企业招聘,活动,促销,微信H5推广,企业移动自营销管家-易企秀官网（eqxiu."
+    - title: "135编辑器,微信编辑器，微信排版,图文排版,一键秒刷,公众号图文编辑器,排版编辑器，文章排版，内容编辑器，在线使用无需下载。135编辑器，从1开始，做更好"
+      url: http://www.135editor.com/
+      description: "135编辑器,微信编辑器，微信排版,图文排版,一键秒刷,公众号图文编辑器,排版编辑器，文章排版，内容编辑器，在线使用无需下载。135编辑器，从1开始，做更好"
+    - title: "秀米首页 - 秀米 XIUMI"
+      url: http://2861.replace.favo.gng92.com/
+      description: "秀米首页 - 秀米 XIUMI"
+    - title: "平面设计,简单,快速,轻松完成平面设计,2016最好的在线平面设计工具-创客贴"
+      url: https://www.chuangkit.com/
+      description: "平面设计,简单,快速,轻松完成平面设计,2016最好的在线平面设计工具-创客贴"
+    - title: "秋无痕论坛 - 选择无痕 | 无限可能 - bbs.realqwh.cn"
+      url: http://bbs.realqwh.cn/index.php
+      description: "秋无痕论坛 - 选择无痕 | 无限可能 - bbs.realqwh.cn"
+    - title: "【新提醒】卡饭网_计算机安全_杀毒软件交流中心 - 互助分享 - 大气谦和!"
+      url: http://www.kafan.cn/
+      description: "【新提醒】卡饭网_计算机安全_杀毒软件交流中心 - 互助分享 - 大气谦和!"
+    - title: "DJI 大疆创新官网｜未来无所不能"
+      url: http://www.dji.com/cn
+      description: "DJI 大疆创新官网｜未来无所不能"
+    - title: "易企秀|免费H5页面微场景制作工具|一键生成H5-企业营销,个人展示-节日贺卡,企业招聘,活动,促销,微信H5推广,企业移动自营销管家-易企秀官网（eqxiu.com)"
+      url: http://3076.replace.favo.tyouai.com/
+      description: "易企秀|免费H5页面微场景制作工具|一键生成H5-企业营销,个人展示-节日贺卡,企业招聘,活动,促销,微信H5推广,企业移动自营销管家-易企秀官网（eqxiu."
+    - title: "秀米首页 - 秀米 XIUMI"
+      url: http://2861.replace.favo.tyouai.com/
+      description: "秀米首页 - 秀米 XIUMI"
+    - title: "MAKA官网_海量H5制作模板_免费海报设计模板_一键编辑手机短视频"
+      url: http://maka.im/
+      description: "MAKA官网_海量H5制作模板_免费海报设计模板_一键编辑手机短视频"
+    - title: "【经典游戏】【名作】★★地牢猎手4 学习版★★【已修复】 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn"
+      url: https://www.52pojie.cn/thread-1115529-1-1.html
+      description: "【经典游戏】【名作】★★地牢猎手4 学习版★★【已修复】 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52"
+    - title: "小迈千云 | 便捷免费的在线云存储文件管理平台"
+      url: https://www.qianclouds.com/
+      description: "小迈千云 | 便捷免费的在线云存储文件管理平台"
+    - title: "无标题演示文稿 - Google 幻灯片"
+      url: https://docs.google.com/presentation/d/1ndPse9_5xXRguG1fxP5RJzrUvpB0gcU1c-HsoMMdDCE/edit?slide=id.p#slide=id.p
+      description: "无标题演示文稿 - Google 幻灯片"
+    - title: "API中转平台"
+      url: https://spanagent.xyz/
+      description: "API中转平台"
+    - title: "Agnes AI | AI Gateway, Free AI API &amp; AI Applications"
+      url: https://agnes-ai.com/
+      description: "Agnes AI | AI Gateway, Free AI API &amp; AI Applications"
+    - title: "FreeLLMAPI · Unified LLM Router"
+      url: http://154.21.194.249:3001/models/chat
+      description: "FreeLLMAPI · Unified LLM Router"
+    - title: "互传"
+      url: http://as.vivo.com/
+      description: "互传"
+    - title: "果汁排行榜"
+      url: http://guozhivip.com/rank/
+      description: "果汁排行榜"
+    - title: "今日头条"
+      url: https://www.toutiao.com/?wid=1644996553872
+      description: "今日头条"
+    - title: "哔哩哔哩"
+      url: https://www.bilibili.com/
+      description: "哔哩哔哩"
+    - title: "收件箱"
+      url: https://mail.google.com/mail/u/0/#inbox
+      description: "收件箱"
+    - title: "Google AI Studio"
+      url: https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview
+      description: "Google AI Studio"
+    - title: "Nano Banana 2免费版"
+      url: https://nanobananafree.ai/
+      description: "Nano Banana 2免费版"
+    - title: "Google Gemini"
+      url: https://gemini.google.com/app
+      description: "Google Gemini"
+    - title: "Flowith AI - 香蕉免费"
+      url: https://flowith.io/blank
+      description: "Flowith AI - 香蕉免费"
+    - title: "Whisk - 免费生图生视频"
+      url: https://labs.google/fx/zh/tools/whisk/project
+      description: "Whisk - 免费生图生视频"
+    - title: "KoolCenter - 源于玩家 服务玩家"
+      url: https://www.koolcenter.com/
+      description: "KoolCenter - 源于玩家 服务玩家"
+    - title: "知乎 - 有问题，上知乎"
+      url: https://www.zhihu.com/signin?next=%2F
+      description: "知乎 - 有问题，上知乎"
+    - title: "主页 | 华硕梅林"
+      url: https://www.asuswrt-merlin.net/
+      description: "主页 | 华硕梅林"
+    - title: "梅林改版固件 386.4_0 发布by koolcenter - KoolCenter"
+      url: https://www.koolcenter.com/posts/112
+      description: "梅林改版固件 386.4_0 发布by koolcenter - KoolCenter"
+    - title: "恩山无线论坛 - Powered by Discuz!"
+      url: https://www.right.com.cn/forum/index.php
+      description: "恩山无线论坛 - Powered by Discuz!"
+    - title: "Magic Eraser - Remove unwanted things from images in seconds"
+      url: https://www.magiceraser.io/
+      description: "Magic Eraser - Remove unwanted things from images in seconds"
+    - title: "Ready to live all your cartoon dreams at a time?"
+      url: https://toonme.com/result
+      description: "Ready to live all your cartoon dreams at a time?"
+    - title: "马小帮 | 专注互联网经验分享！"
+      url: https://www.maxiaobang.com/
+      description: "马小帮 | 专注互联网经验分享！"
+    - title: "爱快云 - 网络巡检 - 概览"
+      url: https://yun.ikuai8.com/#/
+      description: "爱快云 - 网络巡检 - 概览"
+    - title: "MikuTools - 一个轻量的工具集合"
+      url: https://tools.miku.ac/
+      description: "MikuTools - 一个轻量的工具集合"
+    - title: "新首页 - 悟空百科"
+      url: https://didiboy0702.gitbook.io/wukongdaily/
+      description: "新首页 - 悟空百科"
+    - title: "神秘的热心网友 - 收集免费实用有趣的东西，做最好的资源导航"
+      url: https://imyshare.com/
+      description: "神秘的热心网友 - 收集免费实用有趣的东西，做最好的资源导航"
+    - title: "盘盘资源-开放交流，共享资源，走进盘盘！"
+      url: https://www.panpanr.com/forum.php
+      description: "盘盘资源-开放交流，共享资源，走进盘盘！"
+    - title: "转写完成 | 云猫转码"
+      url: https://yunmaovideo.com/result/extract-text/?id=hITIgsgTNT
+      description: "转写完成 | 云猫转码"
+    - title: "4K Tokkit | TikTok视频、标签和帐户下载程序 | 4K Download"
+      url: https://www.4kdownload.com/zh-cn/products/tokkit/4
+      description: "4K Tokkit | TikTok视频、标签和帐户下载程序 | 4K Download"
+    - title: "Search Projects | Photos, videos, logos, illustrations and branding on Behance"
+      url: https://www.behance.net/
+      description: "Search Projects | Photos, videos, logos, illustrations and branding on Behance"
+    - title: "123云盘"
+      url: https://www.123pan.com/
+      description: "123云盘"
+    - title: "阿里云盘资源导航"
+      url: https://aliyun.panpanr.com/
+      description: "阿里云盘资源导航"
+    - title: "首页 - 网络空间测绘,网络安全,漏洞分析,动态测绘,钟馗之眼,时空测绘,赛博测绘 - ZoomEye(&quot;钟馗之眼&quot;)网络空间搜索引擎"
+      url: https://www.zoomeye.org/
+      description: "首页 - 网络空间测绘,网络安全,漏洞分析,动态测绘,钟馗之眼,时空测绘,赛博测绘 - ZoomEye(&quot;钟馗之眼&quot;)网络空间搜索引擎"
+    - title: "超级云短信接码平台，在线短信验证码接收 | Receive SMS"
+      url: https://www.supercloudsms.com/zh/
+      description: "超级云短信接码平台，在线短信验证码接收 | Receive SMS"
+    - title: "文心一格 - AI艺术和创意辅助平台"
+      url: https://yige.baidu.com/
+      description: "文心一格 - AI艺术和创意辅助平台"
+    - title: "改图鸭-在线图片压缩、图片编辑、图片格式转换工具"
+      url: https://www.gaituya.com/
+      description: "改图鸭-在线图片压缩、图片编辑、图片格式转换工具"
+    - title: "小论文神器【一键生成，随意更新段落内容，标准格式下载】"
+      url: https://essay.1ts.fun/
+      description: "小论文神器【一键生成，随意更新段落内容，标准格式下载】"
+    - title: "文心大模型-产业级知识增强大模型"
+      url: https://wenxin.baidu.com/wenxin/pc/lyrics
+      description: "文心大模型-产业级知识增强大模型"
+    - title: "人工智能老照片无损修复, 利用2022年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）"
+      url: https://jpghd.com/
+      description: "人工智能老照片无损修复, 利用2022年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）"
+    - title: "QR Code扫码获取阿里云盘refresh token"
+      url: https://aliyundriver-refresh-token.vercel.app/
+      description: "QR Code扫码获取阿里云盘refresh token"
+    - title: "AWS Management Console"
+      url: https://ap-northeast-1.console.aws.amazon.com/console/home?region=ap-northeast-1
+      description: "AWS Management Console"
+    - title: "AWS 云服务-专业的大数据和云计算服务以及云解决方案提供商"
+      url: https://aws.amazon.com/cn/
+      description: "AWS 云服务-专业的大数据和云计算服务以及云解决方案提供商"
+    - title: "• Discord | 主页 - Midjourney"
+      url: https://discord.com/channels/662267976984297473/@home
+      description: "• Discord | 主页 - Midjourney"
+    - title: "Video Library"
+      url: https://studio.d-id.com/
+      description: "Video Library"
+    - title: "Forefront Chat"
+      url: https://chat.forefront.ai/
+      description: "Forefront Chat"
+    - title: "HeyGen - AI Spokesperson Video Creator"
+      url: https://app.heygen.com/guest/home?sid=rewardful&via=jing
+      description: "HeyGen - AI Spokesperson Video Creator"
+    - title: "QS百度 | 解析分享链接"
+      url: https://pan.qsbaidu.com/
+      description: "QS百度 | 解析分享链接"
+    - title: "Bard"
+      url: https://bard.google.com/
+      description: "Bard"
+    - title: "Ookla 的速度测试 - 全球宽带速度测试"
+      url: https://www.speedtest.net/result/15142500190
+      description: "Ookla 的速度测试 - 全球宽带速度测试"
+    - title: "文心一言"
+      url: https://yiyan.baidu.com/
+      description: "文心一言"
+    - title: "抠图去背景| PhotoRoom"
+      url: https://www.photoroom.com/tools/background-remover
+      description: "抠图去背景| PhotoRoom"
+    - title: "Scribble Diffusion（草图变照片）"
+      url: https://scribblediffusion.com/
+      description: "Scribble Diffusion（草图变照片）"
+    - title: "通过拖动框从照片中删除不需要的对象"
+      url: https://cleanupphotos.com/
+      description: "通过拖动框从照片中删除不需要的对象"
+    - title: "wukongdaily/allinonescript: 在软路由iStoreOS命令行中一键安装多个插件"
+      url: https://github.com/wukongdaily/allinonescript
+      description: "wukongdaily/allinonescript: 在软路由iStoreOS命令行中一键安装多个插件"
+    - title: "六六工具箱_66工具箱_致力打造安全、快捷、好用的工具箱~"
+      url: https://www.66toolboxs.com/
+      description: "六六工具箱_66工具箱_致力打造安全、快捷、好用的工具箱~"
+    - title: "艾钱德勒"
+      url: https://mychandler.bet/chat
+      description: "艾钱德勒"
+    - title: "必应中的 Microsoft Copilot"
+      url: https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx
+      description: "必应中的 Microsoft Copilot"
+    - title: "AI创作歌曲"
+      url: https://app.suno.ai/
+      description: "AI创作歌曲"
+    - title: "机器人商店 - 科兹"
+      url: https://www.coze.com/store/bot
+      description: "机器人商店 - 科兹"
+    - title: "通义"
+      url: https://tongyi.aliyun.com/qianwen
+      description: "通义"
+    - title: "易破解 - 给你所需要的内容"
+      url: https://www.ypojie.com/
+      description: "易破解 - 给你所需要的内容"
+    - title: "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件"
+      url: https://www.appinn.com/
+      description: "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件"
+    - title: "生成sing-box配置"
+      url: https://sing-box-subscribe-mauve-pi-lgxbh.vercel.app/
+      description: "生成sing-box配置"
+    - title: "Tvzb论坛 - IPTV直播源交流论坛,IPTV代理源码共享,TV软件下载,tvbox接口,www.tvzb.com"
+      url: https://www.tvzb.com/forum.php
+      description: "Tvzb论坛 - IPTV直播源交流论坛,IPTV代理源码共享,TV软件下载,tvbox接口,www.tvzb.com"
+    - title: "扩散器图像 Outpaint - 由 fffiloni 设计的拥抱面部空间"
+      url: https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint
+      description: "扩散器图像 Outpaint - 由 fffiloni 设计的拥抱面部空间"
+    - title: "DeepSeek - 探索未至之境"
+      url: https://chat.deepseek.com/
+      description: "DeepSeek - 探索未至之境"
+    - title: "IPTV 论坛"
+      url: https://iptv.cc/forum.php
+      description: "IPTV 论坛"
+    - title: "火山方舟管理控制台"
+      url: https://console.volcengine.com/ark/region:ark+cn-beijing/experience/chat
+      description: "火山方舟管理控制台"
+    - title: "Deepseek-ai 的 deepseek-r1 模型 | NVIDIA NIM"
+      url: https://build.nvidia.com/deepseek-ai/deepseek-r1
+      description: "Deepseek-ai 的 deepseek-r1 模型 | NVIDIA NIM"
+    - title: "讯飞智文 - AI在线生成PPT、Word"
+      url: https://zhiwen.xfyun.cn/
+      description: "讯飞智文 - AI在线生成PPT、Word"
+    - title: "Grok"
+      url: https://grok.com/chat/142f029b-9526-475f-9220-43a31c2a0c9a
+      description: "Grok"
+    - title: "Create Prompt | Google AI Studio"
+      url: https://aistudio.google.com/prompts/new_chat
+      description: "Create Prompt | Google AI Studio"
+    - title: "AskManyAI"
+      url: https://askmany.cn/index
+      description: "AskManyAI"
+    - title: "Nano Banana - AI 图像生成器"
+      url: https://nb.snaily.top/create
+      description: "Nano Banana - AI 图像生成器"
+    - title: "免费 Nano Banana 2 AI 在线图像生成器（无需登录，无水印）"
+      url: https://arting.ai/nano-banana
+      description: "免费 Nano Banana 2 AI 在线图像生成器（无需登录，无水印）"
+    - title: "FLUX.2 [dev] - 由 black-forest-labs 开发的拥抱脸空间"
+      url: https://huggingface.co/spaces/black-forest-labs/FLUX.2-dev
+      description: "FLUX.2 [dev] - 由 black-forest-labs 开发的拥抱脸空间"
+    - title: "Gemini Enterprise：面向企业的最佳 Google AI | Google Cloud"
+      url: https://cloud.google.com/gemini-enterprise
+      description: "Gemini Enterprise：面向企业的最佳 Google AI | Google Cloud"
+    - title: "老王导航-个人专属导航页-Navitem"
+      url: https://nav.eooce.com/
+      description: "老王导航-个人专属导航页-Navitem"
+    - title: "PanSou 盘搜"
+      url: https://11.220779.xyz/
+      description: "PanSou 盘搜"
+    - title: "谷歌AI电子笔记本"
+      url: https://notebooklm.google.com/?icid=home_maincta&_gl=1*1sjd7wl*_ga*Mjg3MDc3MDEuMTc2NTEwNTE1Nw..*_ga_W0LDH41ZCB*czE3NjUxMDUxNTYkbzEkZzEkdDE3NjUxMDUxNjEkajU1JGwwJGgw
+      description: "谷歌AI电子笔记本"
+    - title: "Downloading • 资源搜索"
+      url: https://fmhy.net/downloading
+      description: "Downloading • 资源搜索"
+    - title: "网络速度测试 | Fast.com"
+      url: https://fast.com/
+      description: "网络速度测试 | Fast.com"
+    - title: "开箱即用的云计算平台"
+      url: https://www.hi168.com/#/
+      description: "开箱即用的云计算平台"
+    - title: "PortableApps.com"
+      url: http://portableapps.com/
+      description: "PortableApps.com"
 
-    - term: 交互设计
-      links:
-        - title: Little Big Details
-          url: http://littlebigdetails.com/
-          logo: images/logos/littlebigdetails.png
-          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
-        - title: Smashing Magazine
-          url: https://www.smashingmagazine.com/category/user-experience
-          logo: images/logos/smashingmagazine.png
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-        - title: nngroup
-          url: https://www.nngroup.com/articles/
-          logo: images/logos/nngroup.png
-          description: Evidence-Based User Experience Research, Training, and Consulting
-        - title: Boxes and Arrows
-          url: http://boxesandarrows.com/
-          logo: images/logos/boxesandarrows.png
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
-        - title: UX Design Weekly
-          url: http://uxdesignweekly.com/
-          logo: images/logos/uxdesignweekly.png
-          description:  get a hand picked list of the best user experience design links every week. 
-        - title: UX Ren
-          url: http://uxren.cn/
-          logo: images/logos/uxren.png
-          description: 用户体验人的专业社区
+- taxonomy: VPS厂家
+  icon: fa-server
+  links:
+    - title: "门户首页 - ByteVirt LLC"
+      url: https://bytevirt.com/index.php
+      description: "门户首页 - ByteVirt LLC"
+    - title: "Jtti周年庆促销/VPS云服务器/专用服务器-Jtti"
+      url: https://www.jtti.cc/zh/activity/y2026-anniversary.html
+      description: "Jtti周年庆促销/VPS云服务器/专用服务器-Jtti"
+    - title: "客户专区 - RackNerd LLC"
+      url: https://my.racknerd.com/clientarea.php
+      description: "客户专区 - RackNerd LLC"
+    - title: "jtti-香港云服务器_香港高防服务器_云服务器主机提供商"
+      url: https://www.jtti.cc/zh/offers?k=1I7QGL
+      description: "jtti-香港云服务器_香港高防服务器_云服务器主机提供商"
+    - title: "VMRack 2026 Overseas VPS Spring Festival Campaign"
+      url: https://www.vmrack.net/activity/2026-spring
+      description: "VMRack 2026 Overseas VPS Spring Festival Campaign"
+    - title: "客户编号 4578 | BitsFlowCloud.LTD"
+      url: https://ccp.bitsflow.cloud/client/
+      description: "客户编号 4578 | BitsFlowCloud.LTD"
+    - title: "申请退款 | justhost.asia"
+      url: https://my.justhost.asia/tickets/view/904152
+      description: "申请退款 | justhost.asia"
+    - title: "#1208685 -40% VPS kvm 1208685@cn315 1 x cpu / 1024 Mb / nvme 20000 Mb / 300 Mbit | justhost.asia"
+      url: https://my.justhost.asia/vps_service/control/1208685
+      description: "#1208685 -40% VPS kvm 1208685@cn315 1 x cpu / 1024 Mb / nvme 20000 Mb / 300 Mbit"
+    - title: "Special VPS Plans - DediOne.com"
+      url: https://dedione.com/store/special-vps-plans
+      description: "Special VPS Plans - DediOne.com"
+    - title: "玩具LXC - 56IDC.Net | 无聊云"
+      url: https://56idc.net/store/toy-vps
+      description: "玩具LXC - 56IDC.Net | 无聊云"
+    - title: "门户首页 - 56IDC.Net | 无聊云"
+      url: https://56idc.net/
+      description: "门户首页 - 56IDC.Net | 无聊云"
+    - title: "PicDoc - AI文本转视觉工具"
+      url: https://www.picdoc.ai/zh
+      description: "PicDoc - AI文本转视觉工具"
+    - title: "新闻订阅 - API"
+      url: https://api-dashboard.search.brave.com/app/keys
+      description: "新闻订阅 - API"
 
-
-- taxonomy: UED团队
-  icon: fa-user-group
-  links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
-    - title: Facebook Design
-      url: http://facebook.design/
-      logo: images/logos/FacebookDesign.png
-      description: Facebook Design
-    - title: Google Design
-      url: https://design.google/
-      logo: images/logos/GoogleDesign.png
-      description: Google Design
-    - title: eico design
-      url: http://eicodesign.com/
-      logo: images/logos/eico.png
-      description: 数字化咨询与产品专家
-    - title: nice design
-      url: http://www.niceui.cn/
-      logo: images/logos/niceui.png
-      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-    - title: 腾讯CDC
-      url: http://cdc.tencent.com/
-      logo: images/logos/cdc.png
-      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-    - title: TGideas
-      url: http://tgideas.qq.com/
-      logo: images/logos/tgideas.png
-      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-    - title: ISUX
-      url: https://isux.tencent.com/
-      logo: images/logos/isux.png
-      description: 腾讯社交用户体验设计部
-    - title: MXD
-      url: http://mxd.tencent.com/
-      logo: images/logos/mxd.png
-      description: 腾讯MIG无线互联网事业群设计团队
-    - title: Aliued
-      url: http://www.aliued.com/
-      logo: images/logos/aliued.png
-      description: 阿里巴巴国际UED团队
-    - title: U一点
-      url: http://www.aliued.cn/
-      logo: images/logos/aliuedcn.png
-      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-    - title: 网易uedc
-      url: http://uedc.163.com/
-      logo: images/logos/uedc.png
-      description: 网易用户体验设计中心（User Experience Design Center）
-    - title: 百度用户体验中心
-      url: http://ued.baidu.com/
-      logo: images/logos/uedbaidu.png
-      description: 百度用户体验中心
-    - title: 京东设计中心
-      url: http://jdc.jd.com/
-      logo: images/logos/JDC.png
-      description: 京东设计中心
-    - title: 百度企业产品用户体验中心
-      url: http://eux.baidu.com/
-      logo: images/logos/euxbaidu.png
-      description: 百度企业产品用户体验中心
-    - title: 携程设计委员会
-      url: http://ued.ctrip.com/
-      logo: images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
-     
-
-
-
-     
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
-    - title: webstack.cc
-      url: https://webstack.cc
-      description: webstack - 设计师网址导航
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: OPENI
-      url: https://openi.cn/
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-    - title: bioit导航
-      url: https://www.bioit.top/
-      description:
-    - title: 所长导航
-      url: https://liutongxu.github.io/
-      description:
-    - title: 一为webstack
-      url: https://webstack.iotheme.cn/
-    - title: iplaycode
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
----
+- taxonomy: 已导入
+  icon: fa-bookmark
+  links:
+    - title: "ddlink.cc |数字名片"
+      url: https://www.ddlink.cc/link-create/page
+      description: "ddlink.cc |数字名片"
+    - title: "Компьютерный форум Ru.Board"
+      url: https://forum.ru-board.com/
+      description: "Компьютерный форум Ru.Board"
+    - title: "提示词优化器"
+      url: https://prompt.always200.com/#/basic/system
+      description: "提示词优化器"
+    - title: "ddlink.cc |数字名片"
+      url: https://www.ddlink.cc/link-create/page
+      description: "ddlink.cc |数字名片"
+    - title: "Компьютерный форум Ru.Board"
+      url: https://forum.ru-board.com/
+      description: "Компьютерный форум Ru.Board"
