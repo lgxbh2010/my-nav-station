@@ -1,6 +1,7 @@
 name: GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main # Set a branch to deploy
@@ -20,16 +21,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'  # 版本根据自己选择，latest是0.145.0
-          extended: true  # 还是扩展版，功能更全面一些
+          hugo-version: 'latest'
+          extended: true
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          # publish_branch: gh-pages
+          force_orphan: true
