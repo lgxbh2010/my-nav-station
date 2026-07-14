@@ -53,7 +53,7 @@ function search() {
         // 获取a标签中class为overflowClip_1、2的文本内容
         var clipContent = cardLink.querySelector('.overflowClip_1').textContent.trim() + " - " + cardLink.querySelector('.overflowClip_2').textContent.trim();
         var cardImg = cardLink.querySelector('img');
-        var imgSrc = cardImg ? (cardImg.getAttribute('data-src') || cardImg.getAttribute('src')) : ''; 
+        var imgSrc = cardImg ? (cardImg.getAttribute('data-src') || cardImg.getAttribute('src')) : '';
         if (cardLink) {
             // 常规匹配
             let wordMatch = clipContent.match(regex);
