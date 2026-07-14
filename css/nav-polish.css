@@ -362,6 +362,30 @@ nav.navbar{
   object-fit:contain;
 }
 
+.nav-site-letter{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:46px;
+  height:46px;
+  flex:0 0 46px;
+  margin-right:14px;
+  border-radius:16px;
+  color:#fff;
+  background:linear-gradient(135deg,var(--nav-accent),var(--nav-accent-2));
+  font-size:18px;
+  font-weight:850;
+  box-shadow:0 12px 24px rgba(59,130,246,.22);
+}
+
+#search-results .nav-site-letter{
+  width:30px;
+  height:30px;
+  margin-right:8px;
+  border-radius:10px;
+  font-size:13px;
+}
+
 .xe-comment{
   position:static;
   top:auto;
@@ -566,6 +590,13 @@ footer.main-footer .foot-button a:hover{
   }
 
   .xe-comment-entry img{
+    width:42px;
+    height:42px;
+    flex-basis:42px;
+    margin-right:11px;
+  }
+
+  .nav-site-letter{
     width:42px;
     height:42px;
     flex-basis:42px;

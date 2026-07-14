@@ -52,7 +52,8 @@ function search() {
         var cardLink = xCards[i].querySelector('a');  
         // 获取a标签中class为overflowClip_1、2的文本内容
         var clipContent = cardLink.querySelector('.overflowClip_1').textContent.trim() + " - " + cardLink.querySelector('.overflowClip_2').textContent.trim();
-        var imgSrc = cardLink.querySelector('img').getAttribute('data-src'); 
+        var cardImg = cardLink.querySelector('img');
+        var imgSrc = cardImg ? (cardImg.getAttribute('data-src') || cardImg.getAttribute('src')) : '';
         if (cardLink) {
             // 常规匹配
             let wordMatch = clipContent.match(regex);
@@ -91,9 +92,11 @@ function search() {
             var newIcon = document.createElement('i');
             var img = document.createElement('img');
             img.classList.add('lazy');
+            img.classList.add('nav-site-icon');
             img.src = defaultLogo;
             img.setAttribute('data-src',results[j].dataSrc)
-            img.setAttribute('onerror', `javascript:this.src='${defaultLogo}'`);
+            img.setAttribute('data-url',results[j].href);
+            img.setAttribute('data-site-title',results[j].text);
             newIcon.appendChild(img);
             // 添加a标签
             var newLink = document.createElement('a');  
@@ -105,7 +108,11 @@ function search() {
             listItem.appendChild(newLink);  
             resultsList.appendChild(listItem);  
         }
-        $("img.lazy").lazyload();
+        if (typeof window.initNavSiteIcons === 'function') {
+            window.initNavSiteIcons(resultsList);
+        } else {
+            $("img.lazy").lazyload();
+        }
     } else {  
         resultsList.innerHTML = '<span>没有找到匹配的内容。</span>';        
     }
