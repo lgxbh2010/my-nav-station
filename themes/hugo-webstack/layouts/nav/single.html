@@ -18,6 +18,7 @@
 <link rel='stylesheet' id='font-awesome-css'  href='../css/font-awesome.min.css?ver=6.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css'  href='../css/bootstrap.css?ver=3.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nav-css'  href='../css/nav.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-polish-css'  href='../css/nav-polish.css?ver=20260714' type='text/css' media='all' />
 <script type='text/javascript' src='../js/jquery-1.11.1.min.js'></script>
 </head>
 <body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
@@ -126,7 +127,7 @@
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
                         <div class="xe-comment-entry">
                             <div class="xe-user-img">
-                                <img class="img-circle lazy" src="../images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='../images/favicon.png'" width="40">
+                                <img class="img-circle nav-site-icon" src="../images/favicon.png" data-logo="{{ .logo }}" data-url="{{ .url }}" data-site-title="{{ .title }}" alt="{{ .title }} icon" loading="lazy" width="40" height="40">
                             </div>
                             <div class="xe-comment">
                                 <div class="xe-user-name overflowClip_1">
@@ -142,7 +143,7 @@
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" title="{{ .description }} {{ .url }}">
                         <div class="xe-comment-entry">
                             <div class="xe-user-img">
-                                <img class="img-circle lazy" src="../images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='../images/favicon.png'" width="40">
+                                <img class="img-circle nav-site-icon" src="../images/favicon.png" data-logo="{{ .logo }}" data-url="{{ .url }}" data-site-title="{{ .title }}" alt="{{ .title }} icon" loading="lazy" width="40" height="40">
                             </div>
                             <div class="xe-comment">
                                 <div class="xe-user-name overflowClip_1">
@@ -169,7 +170,7 @@
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
                         <div class="xe-comment-entry">
                             <div class="xe-user-img">
-                                <img class="img-circle lazy" src="../images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='../images/favicon.png'" width="40">
+                                <img class="img-circle nav-site-icon" src="../images/favicon.png" data-logo="{{ .logo }}" data-url="{{ .url }}" data-site-title="{{ .title }}" alt="{{ .title }} icon" loading="lazy" width="40" height="40">
                             </div>
                             <div class="xe-comment">
                                 <div class="xe-user-name overflowClip_1">
@@ -185,7 +186,7 @@
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom"  title="{{ .description }} {{ .url }}">
                         <div class="xe-comment-entry">
                             <div class="xe-user-img">
-                                <img class="img-circle lazy" src="../images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='../images/favicon.png'" width="40">
+                                <img class="img-circle nav-site-icon" src="../images/favicon.png" data-logo="{{ .logo }}" data-url="{{ .url }}" data-site-title="{{ .title }}" alt="{{ .title }} icon" loading="lazy" width="40" height="40">
                             </div>
                             <div class="xe-comment">
                                 <div class="xe-user-name overflowClip_1">
@@ -271,15 +272,55 @@
             }        
         });
         <!-- 黑暗和明亮模式 END -->
-        <!-- 利用iowen API 获取网址icon START --> 
-        $(".geticon").each(function(){
-            var url = $(this).find('a').attr('href');
-            var apiUrl="https://api.iowen.cn/favicon/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".png"
-            if ($(this).find('img').attr('data-src').length === 0) {
-                $(this).find('img').attr('data-src', apiUrl);
+        window.getNavIconDomain = function(url){
+            try {
+                var parsed = new URL(url, window.location.href);
+                return parsed.hostname.replace(/^www\./, '');
+            } catch(e) {
+                return String(url || '').replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/.*$/, '');
             }
-        })
-        <!-- END 利用iowen API 获取网址icon START-->
+        };
+        window.createNavIconFallback = function(title, domain){
+            var text = (title || domain || '?').trim().replace(/^[\[\(（【「『]+/, '').charAt(0).toUpperCase() || '?';
+            return $('<span class="nav-site-letter" aria-hidden="true"></span>').text(text);
+        };
+        window.initNavSiteIcons = function(scope){
+            $(scope || document).find('img.nav-site-icon, #search-results img').each(function(){
+                var $img = $(this);
+                if ($img.data('navIconReady')) return;
+                $img.data('navIconReady', true);
+                var cardUrl = $img.attr('data-url') || $img.closest('a').attr('href') || '';
+                var title = $img.attr('data-site-title') || $img.attr('alt') || '';
+                var domain = window.getNavIconDomain(cardUrl);
+                var customLogo = ($img.attr('data-logo') || $img.attr('data-src') || '').trim();
+                var sources = [];
+                if (customLogo) sources.push(customLogo);
+                if (domain) {
+                    sources.push('https://api.iowen.cn/favicon/' + domain + '.png');
+                    sources.push('https://icons.duckduckgo.com/ip3/' + domain + '.ico');
+                    sources.push('https://www.google.com/s2/favicons?sz=64&domain_url=https://' + domain);
+                    sources.push('https://' + domain + '/favicon.ico');
+                }
+                sources = sources.filter(function(item, index){
+                    return item && sources.indexOf(item) === index;
+                });
+                $img.attr('data-src', sources[0] || '../images/favicon.png');
+                var sourceIndex = 0;
+                $img.on('error', function(){
+                    sourceIndex += 1;
+                    if (sourceIndex < sources.length) {
+                        this.src = sources[sourceIndex];
+                        $img.attr('data-src', sources[sourceIndex]);
+                    } else {
+                        $img.replaceWith(window.createNavIconFallback(title, domain));
+                    }
+                });
+                if (sources.length) {
+                    $img.attr('src', sources[0]);
+                }
+            });
+        };
+        window.initNavSiteIcons(document);
         $(document).on('click', '.has-sub', function(){
             var _this = $(this)
             if(!$(this).hasClass('expanded')) {
