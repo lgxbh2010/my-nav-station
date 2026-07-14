@@ -20,6 +20,7 @@
 <link rel='stylesheet' id='font-awesome-css'  href='./css/font-awesome.min.css?ver=6.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css'  href='./css/bootstrap.css?ver=3.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nav-css'  href='./css/nav.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-polish-css'  href='./css/nav-polish.css?ver=20260714' type='text/css' media='all' />
 <script type='text/javascript' src='./js/jquery-1.11.1.min.js'></script>
 </head>
 <body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
@@ -110,6 +111,28 @@
     </div>
 </nav>
 {{ template "search.html" . }}
+<section class="nav-hero">
+    <div class="nav-hero__content">
+        <span class="nav-hero__eyebrow">Personal bookmark station</span>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.Description }}。把常用网站、学习资料和生活入口集中在一个清爽页面里。</p>
+        <div class="nav-hero__actions">
+            <a href="javascript:" id="hero-search-btn" class="nav-hero__button nav-hero__button--primary">
+                <i class="fa fa-search"></i>
+                快速搜索
+            </a>
+            <a href="#{{ md5 (index .Site.Data.webstack 0).taxonomy }}" class="nav-hero__button smooth">
+                <i class="fa fa-compass"></i>
+                浏览分类
+            </a>
+        </div>
+    </div>
+    <div class="nav-hero__meta">
+        <span><strong>{{ len .Site.Data.webstack }}</strong> 个分类</span>
+        <span>支持拼音搜索</span>
+        <span>明暗模式切换</span>
+    </div>
+</section>
 <div class="sites-list" style="margin-bottom: 8.5rem;">
 {{ range .Site.Data.webstack }}
     {{ if .list }}
@@ -357,6 +380,9 @@
                 duration: 500,
                 easing: "swing"
             });
+        });
+        $('#hero-search-btn').click(function(){
+            $('#search-btn').trigger('click');
         });
         return false;
     });
